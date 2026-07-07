@@ -442,7 +442,7 @@ https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1
 #EXTINF:-1 tvg-id="50068" tvg-name="Switzerland vs Colombia" tvg-logo="https://img.sofascore.com/api/v1/team/4699/image" group-title="FIFA World Cup",Switzerland vs Colombia - FOX ONE 4K MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xyqyiuevpp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xbfi5dhehl/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50068" tvg-name="Switzerland vs Colombia" tvg-logo="https://img.sofascore.com/api/v1/team/4699/image" group-title="FIFA World Cup",Switzerland vs Colombia - FOX ONE HD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -472,7 +472,7 @@ https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 #EXTINF:-1 tvg-id="50068" tvg-name="Switzerland vs Colombia" tvg-logo="https://img.sofascore.com/api/v1/team/4699/image" group-title="FIFA World Cup",Switzerland vs Colombia - FOX 4K [ALT] MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/xyqyiuevpp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+https://abecxxfaaaaaaaamc3tgtvydttd5x.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/xbfi5dhehl/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
 #EXTINF:-1 tvg-id="50068" tvg-name="Switzerland vs Colombia" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="FIFA World Cup",Switzerland vs Colombia - FOX ONE [ALT] MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -483,11 +483,6 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="50068" tvg-name="Switzerland vs Colombia" tvg-logo="https://img.sofascore.com/api/v1/team/4699/image" group-title="FIFA World Cup",Switzerland vs Colombia - PEACOCK FHD [ALT] MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002273c3a766d1ce78ed615584f91c02:fd69c54eb4f884efe2f22659de5bdcb6
-https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021721-723579-49135f082bb)/master_2hr.mpd?c3.ri=6a47f363_Q1ZYMDc_0_RkFTVExZ_49fa4fc06b4e%3A0&aws.sessionId=ef6fe915-591d-43cb-9a8c-f46708cbeb6f
 
 #EXTINF:-1 tvg-id="50068" tvg-name="Switzerland vs Colombia" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="FIFA World Cup",Switzerland vs Colombia - TELEMUNDO [USA] MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
