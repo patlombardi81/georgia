@@ -414,6 +414,11 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manip
 #KODIPROP:inputstream.adaptive.license_key=647d7e5a44751b08641c1de5daa0e398:c4f950d89e8f3b8ec27f91a75367d650
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/4oyauil6pz/out/v1/53e824228c9d4ff2884cffd2eda4c433/2bb701e9-147c-4e8b-83dd-7003c7a48ab8-cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=primevideo.com&origin=primevideo.com
 
+#EXTINF:-1 tvg-id="50075" tvg-name="Melbourne Storm vs Gold Coast Titans" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Rugby",Melbourne Storm vs Gold Coast Titans - FOX SPORTS FHD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-name="FULL MATCH" group-title="Altri canali",FULL MATCH MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a691dc714504bf4c2b2fb6fd4691d36:8b08a69196b2268a434cf735e8bd1ffb
