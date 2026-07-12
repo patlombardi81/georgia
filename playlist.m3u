@@ -688,6 +688,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #EXTINF:-1 tvg-name="SP0TV HD" group-title="Altri canali",SP0TV HD MPD
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
+#EXTINF:-1 tvg-name="EUROSPORT2 FHD" group-title="Altri canali",EUROSPORT2 FHD MPD
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
 #EXTINF:-1 tvg-name="SP0TV2 HD" group-title="Altri canali",SP0TV2 HD MPD
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
@@ -702,9 +705,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1
 
 #EXTINF:-1 tvg-name="EUROSPORT FHD" group-title="Altri canali",EUROSPORT FHD MPD
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-name="EUROSPORT2 FHD" group-title="Altri canali",EUROSPORT2 FHD MPD
-https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-name="SKY Wimbledon 1 [Italy]" group-title="Altri canali",SKY Wimbledon 1 [Italy] MPD
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1783069192_f~0_g~1_s~a5d53fac-32fe-418c-957b-9fe5a82e5169_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~57_x~93a3f5c555a331eb1375f4226b4dc6ea/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport251)/master_2hr-all.mpd
