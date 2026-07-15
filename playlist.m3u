@@ -127,26 +127,6 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=http
 #EXTINF:-1 tvg-id="50006" tvg-name="WWE" tvg-logo="https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png" group-title="WWE",WWE - BACKUP SD
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/
 
-#EXTINF:-1 tvg-id="50007" tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://img.sofascore.com/api/v1/team/187745/image" group-title="Cricket",Zimbabwe vs Bangladesh - Tapmad HD+
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780573506~acl=/hls/?|Referer=tapmad.com
-
-#EXTINF:-1 tvg-id="50007" tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://img.sofascore.com/api/v1/team/187745/image" group-title="Cricket",Zimbabwe vs Bangladesh - TAPMAD FHD
-https://pastebin.com/raw/U2LaqQne?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com
-
-#EXTINF:-1 tvg-id="50007" tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Zimbabwe vs Bangladesh - FANCODE (BD)
-https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8
-
-#EXTINF:-1 tvg-id="50007" tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://img.sofascore.com/api/v1/team/187745/image" group-title="Cricket",Zimbabwe vs Bangladesh - TSports HD
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="50007" tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Zimbabwe vs Bangladesh - FANCODE - IN
-https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="50007" tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Zimbabwe vs Bangladesh - FANCODE - SD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
-
 #EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",England vs India - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad
@@ -235,12 +215,6 @@ https://edgestream3.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.on
 
 #EXTINF:-1 tvg-id="50013" tvg-name="Washington Wizards" tvg-logo="https://img.sofascore.com/api/v1/team/3425/image" group-title="NBA",Washington Wizards - SportzX Live
 https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50055" tvg-name="Chicago Sky vs Seattle Storm" tvg-logo="https://img.sofascore.com/api/v1/team/35546/image" group-title="WNBA",Chicago Sky vs Seattle Storm - SportzX Live
-https://edgestream2.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50056" tvg-name="Lynx vs Sparks" tvg-logo="https://img.sofascore.com/api/v1/team/3440/image" group-title="WNBA",Lynx vs Sparks - SportzX
-https://edgestream1.pro/hls/yjtzafghvjza74.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50057" tvg-name="Indiana Fever vs Valkyries" tvg-logo="https://img.sofascore.com/api/v1/team/3452/image" group-title="WNBA",Indiana Fever vs Valkyries - SportzX Live
 https://edgestream1.pro/hls/sqhdghzavbxu75.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
