@@ -210,9 +210,6 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Refe
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
-#EXTINF:-1 tvg-id="50012" tvg-name="Utah Jazz" tvg-logo="https://img.sofascore.com/api/v1/team/3429/image" group-title="NBA",Utah Jazz - SportzX SD
-https://edgestream3.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="50013" tvg-name="Washington Wizards" tvg-logo="https://img.sofascore.com/api/v1/team/3425/image" group-title="NBA",Washington Wizards - SportzX Live
 https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
@@ -483,33 +480,6 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 
 #EXTINF:-1 tvg-id="50073" tvg-name="Ireland W vs West Indies W" tvg-logo="https://img.sofascore.com/api/v1/team/213116/image" group-title="Cricket",Ireland W vs West Indies W - LOW SERVER
 http://162.251.160.53:8089/WIvsIRE/index.m3u8
-
-#EXTINF:-1 tvg-id="50074" tvg-name="Timberwolves vs Indiana Pacers" tvg-logo="https://img.sofascore.com/api/v1/team/3426/image" group-title="NBA",Timberwolves vs Indiana Pacers - SportzX Live
-https://edgestream2.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50075" tvg-name="76ers vs Orlando Magic" tvg-logo="https://img.sofascore.com/api/v1/team/3420/image" group-title="NBA",76ers vs Orlando Magic - SportzX Live
-https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50076" tvg-name="Cavaliers vs Pelicans" tvg-logo="https://img.sofascore.com/api/v1/team/3432/image" group-title="NBA",Cavaliers vs Pelicans - SportzX Live
-https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50077" tvg-name="Pistons vs Phoenix Suns" tvg-logo="https://img.sofascore.com/api/v1/team/3424/image" group-title="NBA",Pistons vs Phoenix Suns - SportzX NBA
-https://chatgpt.hereisman.net/playlist/53379/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50077" tvg-name="Pistons vs Phoenix Suns" tvg-logo="https://img.sofascore.com/api/v1/team/3424/image" group-title="NBA",Pistons vs Phoenix Suns - SportzX Live
-https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50078" tvg-name="Hornets vs Milwaukee Bucks" tvg-logo="https://img.sofascore.com/api/v1/team/3430/image" group-title="NBA",Hornets vs Milwaukee Bucks - SportzX NBA
-https://chatgpt.hereisman.net/playlist/53382/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50078" tvg-name="Hornets vs Milwaukee Bucks" tvg-logo="https://img.sofascore.com/api/v1/team/3430/image" group-title="NBA",Hornets vs Milwaukee Bucks - SportzX Live
-https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50079" tvg-name="Kings vs Boston Celtics" tvg-logo="https://img.sofascore.com/api/v1/team/3413/image" group-title="NBA",Kings vs Boston Celtics - SportzX NBA
-https://chatgpt.hereisman.net/playlist/53383/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50079" tvg-name="Kings vs Boston Celtics" tvg-logo="https://img.sofascore.com/api/v1/team/3413/image" group-title="NBA",Kings vs Boston Celtics - SportzX Live
-https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="TNT Sports",TNT Sports 1 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
