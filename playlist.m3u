@@ -766,8 +766,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #EXTINF:-1 tvg-id="50085" tvg-name="Phillies vs New York Mets" tvg-logo="https://img.sofascore.com/api/v1/team/3635/image" group-title="MLB",Phillies vs New York Mets - SportzX Live
 https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
+#EXTINF:-1 tvg-id="50086" tvg-name="Thunder vs Dallas Mavericks" tvg-logo="https://img.sofascore.com/api/v1/team/3418/image" group-title="NBA",Thunder vs Dallas Mavericks - SportzX NBA
+https://chatgpt.hereisman.net/playlist/53392/load-playlist?|Referer=https://gooz.aapmains.net
+
 #EXTINF:-1 tvg-id="50086" tvg-name="Thunder vs Dallas Mavericks" tvg-logo="https://img.sofascore.com/api/v1/team/3418/image" group-title="NBA",Thunder vs Dallas Mavericks - SportzX Live
 https://edgestream1.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50087" tvg-name="Rockets vs Brooklyn Nets" tvg-logo="https://img.sofascore.com/api/v1/team/3412/image" group-title="NBA",Rockets vs Brooklyn Nets - SportzX NBA
+https://chatgpt.hereisman.net/playlist/53395/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50087" tvg-name="Rockets vs Brooklyn Nets" tvg-logo="https://img.sofascore.com/api/v1/team/3412/image" group-title="NBA",Rockets vs Brooklyn Nets - SportzX Live
 https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
