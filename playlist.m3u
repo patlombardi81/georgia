@@ -149,28 +149,31 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 
 #EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",England vs India - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Cricket",England vs India - TAPMAD FHD
-https://pastebin.com/raw/wt7tUMmX?e=.m3u8
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|Referer=https://tapmad.com
 
 #EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",England vs India - WILLOW ALT MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd
 
 #EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Cricket",England vs India - LOW SERVER
-http://193.47.62.44/hls/zzzz.m3u8|referer=http://www.fawanews.sc/
+http://193.47.62.48/hls/ZAZAZAQQ.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="Cricket",England vs India - FOX CRICKET HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
 
 #EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Cricket",England vs India - SONY TEN 1 - IN
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf
 
 #EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Cricket",England vs India - SONY TEN 3 - IN
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf
 
 #EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Cricket",England vs India - SONY TEN 4 - IN
-https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf
 
 #EXTINF:-1 tvg-id="50009" tvg-name="ONE Friday Fights" tvg-logo="https://iili.io/FDjaT1R.md.png" group-title="Boxing",ONE Friday Fights - One Fight FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
