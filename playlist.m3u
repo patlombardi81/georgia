@@ -216,6 +216,9 @@ https://edgestream3.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.on
 #EXTINF:-1 tvg-id="50013" tvg-name="Washington Wizards" tvg-logo="https://img.sofascore.com/api/v1/team/3425/image" group-title="NBA",Washington Wizards - SportzX Live
 https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
+#EXTINF:-1 tvg-id="50057" tvg-name="Indiana Fever vs Valkyries" tvg-logo="https://img.sofascore.com/api/v1/team/3452/image" group-title="WNBA",Indiana Fever vs Valkyries - SportzX WNBA
+https://chatgpt.hereisman.net/playlist/53385/load-playlist?|Referer=https://gooz.aapmains.net
+
 #EXTINF:-1 tvg-id="50057" tvg-name="Indiana Fever vs Valkyries" tvg-logo="https://img.sofascore.com/api/v1/team/3452/image" group-title="WNBA",Indiana Fever vs Valkyries - SportzX Live
 https://edgestream1.pro/hls/sqhdghzavbxu75.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
@@ -501,6 +504,9 @@ https://chatgpt.hereisman.net/playlist/53382/load-playlist?|Referer=https://gooz
 
 #EXTINF:-1 tvg-id="50078" tvg-name="Hornets vs Milwaukee Bucks" tvg-logo="https://img.sofascore.com/api/v1/team/3430/image" group-title="NBA",Hornets vs Milwaukee Bucks - SportzX Live
 https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50079" tvg-name="Kings vs Boston Celtics" tvg-logo="https://img.sofascore.com/api/v1/team/3413/image" group-title="NBA",Kings vs Boston Celtics - SportzX NBA
+https://chatgpt.hereisman.net/playlist/53383/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50079" tvg-name="Kings vs Boston Celtics" tvg-logo="https://img.sofascore.com/api/v1/team/3413/image" group-title="NBA",Kings vs Boston Celtics - SportzX Live
 https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
