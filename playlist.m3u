@@ -205,6 +205,9 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Refe
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
+#EXTINF:-1 tvg-id="50012" tvg-name="Toronto Raptors" tvg-logo="https://img.sofascore.com/api/v1/team/3435/image" group-title="NBA",Toronto Raptors - SportzX Live
+https://chatgpt.hereisman.net/playlist/53407/load-playlist?|Referer=https://gooz.aapmains.net
+
 #EXTINF:-1 tvg-id="50012" tvg-name="Toronto Raptors" tvg-logo="https://img.sofascore.com/api/v1/team/3435/image" group-title="NBA",Toronto Raptors - SportzX SD
 https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 
@@ -764,6 +767,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1
 #EXTINF:-1 tvg-id="50089" tvg-name="Knicks vs Warriors" tvg-logo="https://img.sofascore.com/api/v1/team/3421/image" group-title="NBA",Knicks vs Warriors - SportzX Live
 https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
+#EXTINF:-1 tvg-id="50090" tvg-name="Hawks vs Memphis Grizzlies" tvg-logo="https://img.sofascore.com/api/v1/team/3423/image" group-title="NBA",Hawks vs Memphis Grizzlies - SportzX NBA
+https://chatgpt.hereisman.net/playlist/53404/load-playlist?|Referer=https://gooz.aapmains.net
+
 #EXTINF:-1 tvg-id="50090" tvg-name="Hawks vs Memphis Grizzlies" tvg-logo="https://img.sofascore.com/api/v1/team/3423/image" group-title="NBA",Hawks vs Memphis Grizzlies - SportzX Live
 https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
@@ -772,15 +778,19 @@ https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.onl
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
-#EXTINF:-1 tvg-id="50092" tvg-name="CF Montréal vs Toronto" tvg-logo="https://img.sofascore.com/api/v1/team/22006/image" group-title="MLS 🇺🇸",CF Montréal vs Toronto - TSN SPORTS FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="50091" tvg-name="Club Necaxa vs Atlante" tvg-logo="https://img.sofascore.com/api/v1/team/1944/image" group-title="Liga MX",Club Necaxa vs Atlante - SportzX Live
+https://pul-tenm.nbs3g.com/live/sd-1-4553795.m3u8?txSecret=c0efa74e7a7d083e1511b08a1376a29a&txTime=6A5ACE30
 
-#EXTINF:-1 tvg-id="50092" tvg-name="CF Montréal vs Toronto" tvg-logo="https://img.sofascore.com/api/v1/team/22006/image" group-title="MLS 🇺🇸",CF Montréal vs Toronto - TSN5 SPORTS FHD MPD
+#EXTINF:-1 tvg-id="50091" tvg-name="Club Necaxa vs Atlante" tvg-logo="https://img.sofascore.com/api/v1/team/1944/image" group-title="Liga MX",Club Necaxa vs Atlante - LOW SERVER
+http://193.47.62.41/hls/GRGRGRQQQQQQ.m3u8?|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="50092" tvg-name="CF Montréal vs Toronto" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="MLS 🇺🇸",CF Montréal vs Toronto - TSN SPORTS FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50092" tvg-name="CF Montréal vs Toronto" tvg-logo="https://img.sofascore.com/api/v1/team/22006/image" group-title="MLS 🇺🇸",CF Montréal vs Toronto - SportzX Live
+https://chatgpt.hereisman.net/playlist/53405/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50093" tvg-name="Botafogo vs Santos" tvg-logo="https://img.sofascore.com/api/v1/team/1958/image" group-title="Brasileirão",Botafogo vs Santos - Premier Sports MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
