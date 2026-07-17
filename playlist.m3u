@@ -116,26 +116,6 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=http
 #EXTINF:-1 tvg-id="50006" tvg-name="WWE" tvg-logo="https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png" group-title="WWE",WWE - BACKUP SD
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/
 
-#EXTINF:-1 tvg-id="50007" tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://img.sofascore.com/api/v1/team/187745/image" group-title="Cricket",Zimbabwe vs Bangladesh - Tapmad HD+
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780573506~acl=/hls/?|Referer=tapmad.com
-
-#EXTINF:-1 tvg-id="50007" tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://img.sofascore.com/api/v1/team/187745/image" group-title="Cricket",Zimbabwe vs Bangladesh - TAPMAD FHD
-https://pastebin.com/raw/U2LaqQne?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com
-
-#EXTINF:-1 tvg-id="50007" tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Zimbabwe vs Bangladesh - FANCODE (BD)
-https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8
-
-#EXTINF:-1 tvg-id="50007" tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://img.sofascore.com/api/v1/team/187745/image" group-title="Cricket",Zimbabwe vs Bangladesh - TSports HD
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="50007" tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Zimbabwe vs Bangladesh - FANCODE - IN
-https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="50007" tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Zimbabwe vs Bangladesh - FANCODE - SD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
-
 #EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",England vs India - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47
@@ -227,38 +207,26 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Refe
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
-#EXTINF:-1 tvg-id="50012" tvg-name="Portland Trail Blazers" tvg-logo="https://img.sofascore.com/api/v1/team/3434/image" group-title="NBA",Portland Trail Blazers - SportzX SD
-https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="50012" tvg-name="Portland Trail Blazers" tvg-logo="https://img.sofascore.com/api/v1/team/3434/image" group-title="NBA",Portland Trail Blazers - SportzX Live
+https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50013" tvg-name="Minnesota Timberwolves" tvg-logo="https://img.sofascore.com/api/v1/team/3425/image" group-title="NBA",Minnesota Timberwolves - SportzX Live
-https://edgestream2.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50032" tvg-name="Colorado Rockies" tvg-logo="https://img.sofascore.com/api/v1/team/3628/image" group-title="MLB",Colorado Rockies - SportzX LIVE
-https://edgestream1.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50033" tvg-name="Detroit Tigers" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",Detroit Tigers - SportzX MLB
-https://chatgpt.hereisman.net/playlist/53296/load-playlist?|Referer=https://gooz.aapmains.net
+https://edgestream3.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50033" tvg-name="Detroit Tigers" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",Detroit Tigers - SportzX Live
-https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50034" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3645/image" group-title="MLB",Washington Nationals - SportzX MLB
-https://chatgpt.hereisman.net/playlist/53305/load-playlist?|Referer=https://gooz.aapmains.net
+https://edgestream2.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50034" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3645/image" group-title="MLB",Washington Nationals - SportzX Live
 https://edgestream2.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50052" tvg-name="Arizona Diamondbacks" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Arizona Diamondbacks - SportzX MLB
-https://chatgpt.hereisman.net/playlist/53308/load-playlist?|Referer=https://gooz.aapmains.net
-
 #EXTINF:-1 tvg-id="50052" tvg-name="Arizona Diamondbacks" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Arizona Diamondbacks - SportzX Live
-https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50053" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Seattle Mariners - SportzX MLB
-https://chatgpt.hereisman.net/playlist/53310/load-playlist?|Referer=https://gooz.aapmains.net
+https://edgestream3.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50053" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Seattle Mariners - SportzX Live
-https://edgestream3.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50054" tvg-name="CFL" tvg-logo="https://img.sofascore.com/api/v1/team/4434/image" group-title="CFL",CFL - TSN SPORTS FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -266,10 +234,10 @@ https://edgestream3.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.onl
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50055" tvg-name="Chicago Sky vs Sparks" tvg-logo="https://img.sofascore.com/api/v1/team/35546/image" group-title="WNBA",Chicago Sky vs Sparks - SportzX Live
-https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50056" tvg-name="Indiana Fever vs Seattle Storm" tvg-logo="https://img.sofascore.com/api/v1/team/3452/image" group-title="WNBA",Indiana Fever vs Seattle Storm - SportzX Live
-https://edgestream1.pro/hls/yjtzafghvjza74.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream1.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50057" tvg-name="Toronto Tempo vs Atlanta Dream" tvg-logo="https://img.sofascore.com/api/v1/team/1166445/image" group-title="WNBA",Toronto Tempo vs Atlanta Dream - TSN SPORTS FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -277,10 +245,10 @@ https://edgestream1.pro/hls/yjtzafghvjza74.m3u8?|Referer=https://streamscenter.o
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50057" tvg-name="Toronto Tempo vs Atlanta Dream" tvg-logo="https://img.sofascore.com/api/v1/team/1166445/image" group-title="WNBA",Toronto Tempo vs Atlanta Dream - SportzX Live
-https://edgestream1.pro/hls/sqhdghzavbxu75.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream1.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50058" tvg-name="Mercury vs Connecticut Sun" tvg-logo="https://img.sofascore.com/api/v1/team/3444/image" group-title="WNBA",Mercury vs Connecticut Sun - SportzX Live
-https://edgestream3.pro/hls/xcsfadafgzfg76.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream1.pro/hls/yjtzafghvjza74.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50060" tvg-name="West Indies vs New Zealand" tvg-logo="https://img.sofascore.com/api/v1/team/187760/image" group-title="Cricket",West Indies vs New Zealand - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -310,16 +278,6 @@ https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
 
 #EXTINF:-1 tvg-id="50060" tvg-name="West Indies vs New Zealand" tvg-logo="https://img.sofascore.com/api/v1/team/187760/image" group-title="Cricket",West Indies vs New Zealand - LOW SERVER
 http://193.47.62.53/hls/HYYYZQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50061" tvg-name="Lanka Premier League" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Lanka Premier League - WILLOW FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50061" tvg-name="Lanka Premier League" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Lanka Premier League - WILLOW ALT MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd
 
 #EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16/image" group-title="FIFA World Cup",France vs England - FIFA WC FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -813,23 +771,44 @@ https://chatgpt.hereisman.net/playlist/53418/load-playlist?|Referer=https://gooz
 #EXTINF:-1 tvg-id="50075" tvg-name="Red Sox vs Tampa Bay Rays" tvg-logo="https://img.sofascore.com/api/v1/team/3646/image" group-title="MLB",Red Sox vs Tampa Bay Rays - SportzX Live
 https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50086" tvg-name="Charlotte Hornets vs Kings" tvg-logo="https://img.sofascore.com/api/v1/team/3430/image" group-title="NBA",Charlotte Hornets vs Kings - SportzX NBA
-https://chatgpt.hereisman.net/playlist/53392/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-id="50076" tvg-name="Yankees vs Dodgers" tvg-logo="https://img.sofascore.com/api/v1/team/3654/image" group-title="MLB",Yankees vs Dodgers - SportzX Live
+https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50077" tvg-name="Red Sox vs Tampa Bay Rays" tvg-logo="https://img.sofascore.com/api/v1/team/3646/image" group-title="MLB",Red Sox vs Tampa Bay Rays - SportzX Live
+https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50078" tvg-name="Guardians vs Pittsburgh Pirates" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Pittsburgh Pirates - SportzX Live
+https://edgestream1.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50079" tvg-name="Braves vs Texas Rangers" tvg-logo="https://img.sofascore.com/api/v1/team/3656/image" group-title="MLB",Braves vs Texas Rangers - SportzX Live
+https://edgestream1.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50080" tvg-name="Blue Jays vs White Sox" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Blue Jays vs White Sox - SportzX Live
+https://edgestream2.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50081" tvg-name="Brewers vs Miami Marlins" tvg-logo="https://img.sofascore.com/api/v1/team/3630/image" group-title="MLB",Brewers vs Miami Marlins - SportzX Live
+https://edgestream2.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50082" tvg-name="Cubs vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3627/image" group-title="MLB",Cubs vs Minnesota Twins - SportzX Live
+https://edgestream3.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50083" tvg-name="Houston Astros vs Orioles" tvg-logo="https://img.sofascore.com/api/v1/team/3655/image" group-title="MLB",Houston Astros vs Orioles - SportzX Live
+https://edgestream2.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50084" tvg-name="Royals vs San Diego Padres" tvg-logo="https://img.sofascore.com/api/v1/team/3651/image" group-title="MLB",Royals vs San Diego Padres - SportzX Live
+https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50086" tvg-name="Charlotte Hornets vs Kings" tvg-logo="https://img.sofascore.com/api/v1/team/3430/image" group-title="NBA",Charlotte Hornets vs Kings - SportzX Live
-https://edgestream1.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50087" tvg-name="Cavaliers vs Chicago Bulls" tvg-logo="https://img.sofascore.com/api/v1/team/3432/image" group-title="NBA",Cavaliers vs Chicago Bulls - SportzX NBA
-https://chatgpt.hereisman.net/playlist/53395/load-playlist?|Referer=https://gooz.aapmains.net
+https://edgestream3.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50087" tvg-name="Cavaliers vs Chicago Bulls" tvg-logo="https://img.sofascore.com/api/v1/team/3432/image" group-title="NBA",Cavaliers vs Chicago Bulls - SportzX Live
 https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50088" tvg-name="Knicks vs Dallas Mavericks" tvg-logo="https://img.sofascore.com/api/v1/team/3421/image" group-title="NBA",Knicks vs Dallas Mavericks - SportzX Live
-https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50089" tvg-name="Miami Heat vs Detroit Pistons" tvg-logo="https://img.sofascore.com/api/v1/team/3435/image" group-title="NBA",Miami Heat vs Detroit Pistons - SportzX Live
-https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50090" tvg-name="San Luis vs Cruz Azul" tvg-logo="https://img.sofascore.com/api/v1/team/1950/image" group-title="Liga MX",San Luis vs Cruz Azul - SportzX Live
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
@@ -864,6 +843,24 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+
+#EXTINF:-1 tvg-id="50098" tvg-name="St. Gallen vs Norwich City" tvg-logo="https://img.sofascore.com/api/v1/team/2442/image" group-title="Club Friendly",St. Gallen vs Norwich City - SportzX Live
+https://pul-tenm.nbs3g.com/live/sd-1-4586101.m3u8?txSecret=90599deac687ca04ed4c8666a97e7f4b&txTime=6A5BB9F9
+
+#EXTINF:-1 tvg-id="50098" tvg-name="St. Gallen vs Norwich City" tvg-logo="https://img.sofascore.com/api/v1/team/2442/image" group-title="Club Friendly",St. Gallen vs Norwich City - SD SERVER
+http://193.47.62.42/hls/YAYAYAQ.m3u8?|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="50099" tvg-name="Benfica vs Villarreal" tvg-logo="https://img.sofascore.com/api/v1/team/3006/image" group-title="Club Friendly",Benfica vs Villarreal - SportzX Live
+https://pul-tenm.nbs3g.com/live/sd-1-4586103.m3u8?txSecret=bf1aa8384d5b9f87029f43df64bb0118&txTime=6A5BB9F9
+
+#EXTINF:-1 tvg-id="50099" tvg-name="Benfica vs Villarreal" tvg-logo="https://img.sofascore.com/api/v1/team/3006/image" group-title="Club Friendly",Benfica vs Villarreal - SD SERVER
+http://193.47.62.58/hls/KIKIKI.m3u8?|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="50100" tvg-name="Heart vs Rayo Vallecano" tvg-logo="https://img.sofascore.com/api/v1/team/2353/image" group-title="Club Friendly",Heart vs Rayo Vallecano - SportzX Live
+https://pul-tenm.nbs3g.com/live/sd-1-4581754.m3u8?txSecret=cbf3c91777bbff8e156a9cfe16cbd688&txTime=6A5BB9F9
+
+#EXTINF:-1 tvg-id="50100" tvg-name="Heart vs Rayo Vallecano" tvg-logo="https://img.sofascore.com/api/v1/team/2353/image" group-title="Club Friendly",Heart vs Rayo Vallecano - SD SERVER
+http://193.47.62.58/hls/KIKIKIQ.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="TNT Sports",TNT Sports 1 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
