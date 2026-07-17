@@ -1,34 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="F1",Formula 1 - TSN SPORTS FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="F1",Formula 1 - FANCODE FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="F1",Formula 1 - SportzX F1 HD
 https://chatgpt.hereisman.net/playlist/53414/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SPX LIVE FHD
-https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-157/7dh0-iewo/chunklist.m3u8
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SKY FHD LIVE MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
+https://dice-live-oc.akamaized.net/hdntl=exp=1784350679~acl=*dash%2flive%2f2093757%2f219028-322691%2f*!*dash%2flive%2f2093757-b%2f219028-322691-b%2f*!%2fv1%2fdashsegment%2f*~id=4ff44426-fabf-4f41-ba17-eda2146d0977~data=hdntl,dWlkPWY3RVJaWnwxNjg2YzEwNC04MTc3LTQ1OGItOWEyYi00YjA2MTE1MmI0MDEmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODQzNTA3MDcmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=ed93423a4fb6b9fe39117bce7ae6b26e1aeb13d6d609b4b47b15516119e52f16/dash/live/2093757/219028-322691/manifest-d.mpd|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36 OPR/97.0.0.0
 
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - FOX SPORTS FHD
-https://g001.sadhoofiton.shop/out/v2/6929e198c8e154e4c8d8eda5ff940772/index.m3u8?|referer=https://pushembdz.store/
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="F1",Formula 1 - FOX SPORTS FHD
+https://g001.sadhoofiton.shop/out/v2/f77eb35b1ffef2a18c2ec34f989a7e33/index.m3u8?|referer=https://pushembdz.store/
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - APPLE TV FHD
-https://g001.sadhoofiton.shop/out/v2/361c83544f46735c688159a9039131b9/index.m3u8?|referer=https://pushembdz.store/
+https://g001.sadhoofiton.shop/out/v2/d45bbe10cd959e60d61887d676e9fac1/index.m3u8?|referer=https://pushembdz.store/
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - DAZN ESPANOL
-https://g001.sadhoofiton.shop/out/v2/ac3c2676fc04e665287b7c514bd39e08/index.m3u8?|referer=https://pushembdz.store/
+https://g001.sadhoofiton.shop/out/v2/aa2e11f8ad50df999ad7cb0d441883f5/index.m3u8?|referer=https://pushembdz.store/
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SKY ITALY FHD
-https://g001.sadhoofiton.shop/out/v2/93136b65dac43e60187d0377fc702c19/index.m3u8?|referer=https://pushembdz.store/
+https://g001.sadhoofiton.shop/out/v2/572d69403cf7b0acaef9fe81247c2264/index.m3u8?|referer=https://pushembdz.store/
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - LOW RES
-https://g001.sadhoofiton.shop/out/v2/c58890dc948ca8ec9ed2948c95d165b5/index.m3u8?|referer=https://pushembdz.store/
+https://g001.sadhoofiton.shop/out/v2/3a7eacf6b94c36143ad72418eb94420e/index.m3u8?|referer=https://pushembdz.store/
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - F1 GERMANY [USA] MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -48,21 +45,20 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.m
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="F1",Formula 1 - SKY SPORTS HD
 https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="F1",Formula 1 - SKY SPORTS F1 UHD
-http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=303265&extension=m3u8
-
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - ELEVEN SPORTS MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59
 https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
 
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - Sky F1 DE
-https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
-
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="F1",Formula 1 - Fox Sports - AQ MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="F1",Formula 1 - TSN SPORTS FHD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50003" tvg-name="MotoGP" tvg-logo="https://img.sofascore.com/api/v1/category/1325/image" group-title="MotoGP",MotoGP - MotoGP FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -106,10 +102,7 @@ https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|referer=https://instream.c
 #EXTINF:-1 tvg-id="50006" tvg-name="WWE" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="WWE",WWE - TSN SPORTS MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-#EXTINF:-1 tvg-id="50006" tvg-name="WWE" tvg-logo="https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png" group-title="WWE",WWE - SportzX WWE
-https://sauce.loreofeldenring.site/dailymotion/live/playlist/11.m3u8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50006" tvg-name="WWE" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="WWE",WWE - Fox Sports Premium MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -233,15 +226,6 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Refe
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
-#EXTINF:-1 tvg-id="50013" tvg-name="Denver Nuggets" tvg-logo="https://img.sofascore.com/api/v1/team/3417/image" group-title="NBA",Denver Nuggets - SportzX NBA
-https://chatgpt.hereisman.net/playlist/53412/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50013" tvg-name="Denver Nuggets" tvg-logo="https://img.sofascore.com/api/v1/team/3417/image" group-title="NBA",Denver Nuggets - NBA LIVE
-https://pul-tenm.nbs3g.com/live/hd-en-2-3923401.m3u8?txSecret=4b702fa8e611aef9f46dfd3634bf102c&txTime=6A5ADA60
-
-#EXTINF:-1 tvg-id="50013" tvg-name="Denver Nuggets" tvg-logo="https://img.sofascore.com/api/v1/team/3417/image" group-title="NBA",Denver Nuggets - SportzX Live
-https://edgestream2.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
 #EXTINF:-1 tvg-id="50032" tvg-name="Colorado Rockies" tvg-logo="https://img.sofascore.com/api/v1/team/3628/image" group-title="MLB",Colorado Rockies - SportzX LIVE
 https://edgestream1.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
@@ -312,16 +296,6 @@ https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
 
 #EXTINF:-1 tvg-id="50060" tvg-name="West Indies vs New Zealand" tvg-logo="https://img.sofascore.com/api/v1/team/187760/image" group-title="Cricket",West Indies vs New Zealand - LOW SERVER
 http://193.47.62.53/hls/HYYYZQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50061" tvg-name="SFU vs WF" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Major League Cricket",SFU vs WF - WILLOW FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6de3083c1e22cb49d140d846a1535e88:3aa84e5a5240f125ac292458bcbcd1e8
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tgxt1qnhdq/out/v1/168a6d5649b141dbbc30b408f3f1f083/cenc.mpd
-
-#EXTINF:-1 tvg-id="50061" tvg-name="SFU vs WF" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Major League Cricket",SFU vs WF - WILLOW ALT MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a7111079036ea39999d0da6be9f8d9:26f5326bf03cb3467e15a49e4a1fc8c8
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qeuihkyzy3/out/v1/9ef04a16cfb04fc69c1138f56550bed6/cenc.mpd
 
 #EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16/image" group-title="FIFA World Cup",France vs England - FIFA WC FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -799,25 +773,10 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manip
 #KODIPROP:inputstream.adaptive.license_key=357ccea271387c3288cc8c2301f13d35:6d99d34e858d22ab5954d8df8622106a
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nsuvwbv5a0/out/v1/745ffbb961054110852973877632f4e9/f7dd18d6-fb4d-4a8a-80fb-0cea8594021e-cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=primevideo.com&origin=primevideo.com
 
-#EXTINF:-1 tvg-id="50073" tvg-name="Club Tijuana vs Tigres UANL" tvg-logo="https://img.sofascore.com/api/v1/team/36525/image" group-title="Liga MX",Club Tijuana vs Tigres UANL - SportzX Live
-https://pulltx.cqsycw.com/live/sd-6Mwdpnt4FAuPter7zn.m3u8?txSecret=4b573387403c74d741bcd50f595ef2b9&txTime=6A59C120
-
-#EXTINF:-1 tvg-id="50073" tvg-name="Club Tijuana vs Tigres UANL" tvg-logo="https://img.sofascore.com/api/v1/team/36525/image" group-title="Liga MX",Club Tijuana vs Tigres UANL - LOW SERVER
-http://193.47.62.41/hls/ZGGGQQ.m3u8|Referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50074" tvg-name="Seattle Sounders vs Portland Timbers" tvg-logo="https://img.sofascore.com/api/v1/team/22009/image" group-title="MLS 🇺🇸",Seattle Sounders vs Portland Timbers - TSN SPORTS FHD MPD
+#EXTINF:-1 tvg-id="50074" tvg-name="LA Galaxy vs Los Angeles" tvg-logo="https://img.sofascore.com/api/v1/team/2513/image" group-title="MLS 🇺🇸",LA Galaxy vs Los Angeles - TSN SPORTS FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50074" tvg-name="Seattle Sounders vs Portland Timbers" tvg-logo="https://img.sofascore.com/api/v1/team/22009/image" group-title="MLS 🇺🇸",Seattle Sounders vs Portland Timbers - SportzX MLS
-https://chatgpt.hereisman.net/playlist/53411/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50074" tvg-name="Seattle Sounders vs Portland Timbers" tvg-logo="https://img.sofascore.com/api/v1/team/22009/image" group-title="MLS 🇺🇸",Seattle Sounders vs Portland Timbers - SportzX Live
-https://pulltx.cqsycw.com/live/sd-6MvZ6B9GPSMkk8utgN.m3u8?txSecret=0927a998c9155493a3826a2844a2ffc9&txTime=6A59C030
-
-#EXTINF:-1 tvg-id="50074" tvg-name="Seattle Sounders vs Portland Timbers" tvg-logo="https://img.sofascore.com/api/v1/team/22009/image" group-title="MLS 🇺🇸",Seattle Sounders vs Portland Timbers - SD SERVER
-https://d4.vtoc.live/vdc10012227/QzEMNv4wE73hLXG67mFVGg/2c340b92cab76c421b86b57bfaf2/1784263761/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50086" tvg-name="Charlotte Hornets vs Kings" tvg-logo="https://img.sofascore.com/api/v1/team/3430/image" group-title="NBA",Charlotte Hornets vs Kings - SportzX NBA
 https://chatgpt.hereisman.net/playlist/53392/load-playlist?|Referer=https://gooz.aapmains.net
@@ -842,11 +801,21 @@ https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
+#EXTINF:-1 tvg-id="50091" tvg-name="Sharks vs Newcastle Knights" tvg-logo="https://img.sofascore.com/api/v1/team/4266/image" group-title="NRL Rugby",Sharks vs Newcastle Knights - SPX FHD LIVE MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
+https://dice-live-oc.akamaized.net/hdntl=exp=1784357788~acl=*dash%2flive%2f2093742%2f219026-322453%2f*!*dash%2flive%2f2093742-b%2f219026-322453-b%2f*!%2fv1%2fdashsegment%2f*~id=da1598ae-05c7-4a3f-8e7a-c778b9c9d499~data=hdntl,dWlkPVlhVXR0QnwwNjg2YTFmZi0yZjAxLTQzMmEtYmE4Zi0xNGU5ZTEwMjhmYTYmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODQzNTc4MTcmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=109ec94609bfbdb621a583550a4648ba93e507ad23ee5fc7bcddd481e5e6c9ee/dash/live/2093742/219026-322453/manifest-d.mpd|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36 OPR/97.0.0.0
+
 #EXTINF:-1 tvg-id="50091" tvg-name="Sharks vs Newcastle Knights" tvg-logo="https://img.sofascore.com/api/v1/team/4266/image" group-title="NRL Rugby",Sharks vs Newcastle Knights - SportzX Live
 https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
 
 #EXTINF:-1 tvg-id="50092" tvg-name="Roosters vs Melbourne Storm" tvg-logo="https://img.sofascore.com/api/v1/team/4264/image" group-title="NRL Rugby",Roosters vs Melbourne Storm - SportzX Live
 https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
+
+#EXTINF:-1 tvg-id="50093" tvg-name="Nashville SC vs Atlanta United" tvg-logo="https://img.sofascore.com/api/v1/team/337612/image" group-title="MLS 🇺🇸",Nashville SC vs Atlanta United - TSN 2 MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="TNT Sports",TNT Sports 1 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
