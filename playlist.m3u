@@ -9,13 +9,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - beIN SPORTS FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
-https://co2-bks400-05.starhubgo.com/bpk-token/1ab@y04jscyo1hjka5v2q1nom3tefawwpsuaye4l10aa/bpk-tv/BeINSportsHD/output/manifest.mpd?bkm-query
-
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="F1",Formula 1 - SportzX F1 HD
-https://chatgpt.hereisman.net/playlist/52853/load-playlist?|Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/53414/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SPX LIVE FHD
 https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-157/7dh0-iewo/chunklist.m3u8
@@ -147,6 +142,39 @@ https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-d
 #KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 
+#EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",England vs India - WILLOW FHD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Cricket",England vs India - TAPMAD FHD
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|Referer=https://tapmad.com
+
+#EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",England vs India - WILLOW ALT MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd
+
+#EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Cricket",England vs India - LOW SERVER
+http://193.47.62.48/hls/ZAZAZAQQ.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="Cricket",England vs India - FOX CRICKET HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
+
+#EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Cricket",England vs India - SONY TEN 1 - IN
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf
+
+#EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Cricket",England vs India - SONY TEN 3 - IN
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf
+
+#EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Cricket",England vs India - SONY TEN 4 - IN
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf
+
+#EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Cricket",England vs India - TEST MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
+https://dice-live-oc.akamaized.net/hdntl=exp=1784342622~acl=*dash%2flive%2f2093757%2f219028-322691%2f*!*dash%2flive%2f2093757-b%2f219028-322691-b%2f*!%2fv1%2fdashsegment%2f*~id=a5991e09-6fae-478d-aa94-48b6ab504469~data=hdntl,dWlkPVlhVXR0QnwwNjg2YTFmZi0yZjAxLTQzMmEtYmE4Zi0xNGU5ZTEwMjhmYTYmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODQzNDI2NDQmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=1ebdf596b2f50e1ae9c75c096e0433ee64fbcd1908a9525d6e6e310f6f1f8016/dash/live/2093757/219028-322691/manifest-d.mpd|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36 OPR/97.0.0.0
+
 #EXTINF:-1 tvg-id="50009" tvg-name="ONE Friday Fights" tvg-logo="https://iili.io/FDjaT1R.md.png" group-title="Boxing",ONE Friday Fights - One Fight FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
@@ -205,11 +233,11 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Refe
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
-#EXTINF:-1 tvg-id="50012" tvg-name="Toronto Raptors" tvg-logo="https://img.sofascore.com/api/v1/team/3435/image" group-title="NBA",Toronto Raptors - SportzX Live
-https://chatgpt.hereisman.net/playlist/53407/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-id="50013" tvg-name="Denver Nuggets" tvg-logo="https://img.sofascore.com/api/v1/team/3417/image" group-title="NBA",Denver Nuggets - SportzX NBA
+https://chatgpt.hereisman.net/playlist/53412/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-id="50012" tvg-name="Toronto Raptors" tvg-logo="https://img.sofascore.com/api/v1/team/3435/image" group-title="NBA",Toronto Raptors - SportzX SD
-https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="50013" tvg-name="Denver Nuggets" tvg-logo="https://img.sofascore.com/api/v1/team/3417/image" group-title="NBA",Denver Nuggets - NBA LIVE
+https://pul-tenm.nbs3g.com/live/hd-en-2-3923401.m3u8?txSecret=4b702fa8e611aef9f46dfd3634bf102c&txTime=6A5ADA60
 
 #EXTINF:-1 tvg-id="50013" tvg-name="Denver Nuggets" tvg-logo="https://img.sofascore.com/api/v1/team/3417/image" group-title="NBA",Denver Nuggets - SportzX Live
 https://edgestream2.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -217,8 +245,44 @@ https://edgestream2.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.on
 #EXTINF:-1 tvg-id="50032" tvg-name="Colorado Rockies" tvg-logo="https://img.sofascore.com/api/v1/team/3628/image" group-title="MLB",Colorado Rockies - SportzX LIVE
 https://edgestream1.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50055" tvg-name="Mystics vs Portland Fire" tvg-logo="https://img.sofascore.com/api/v1/team/3454/image" group-title="WNBA",Mystics vs Portland Fire - SportzX Live
+#EXTINF:-1 tvg-id="50033" tvg-name="Detroit Tigers" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",Detroit Tigers - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53296/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50033" tvg-name="Detroit Tigers" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",Detroit Tigers - SportzX Live
+https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50034" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3645/image" group-title="MLB",Washington Nationals - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53305/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50034" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3645/image" group-title="MLB",Washington Nationals - SportzX Live
+https://edgestream2.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50052" tvg-name="Arizona Diamondbacks" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Arizona Diamondbacks - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53308/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50052" tvg-name="Arizona Diamondbacks" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Arizona Diamondbacks - SportzX Live
+https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50053" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Seattle Mariners - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53310/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50053" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Seattle Mariners - SportzX Live
+https://edgestream3.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50055" tvg-name="Chicago Sky vs Sparks" tvg-logo="https://img.sofascore.com/api/v1/team/35546/image" group-title="WNBA",Chicago Sky vs Sparks - SportzX Live
 https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50056" tvg-name="Indiana Fever vs Seattle Storm" tvg-logo="https://img.sofascore.com/api/v1/team/3452/image" group-title="WNBA",Indiana Fever vs Seattle Storm - SportzX Live
+https://edgestream1.pro/hls/yjtzafghvjza74.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50057" tvg-name="Toronto Tempo vs Atlanta Dream" tvg-logo="https://img.sofascore.com/api/v1/team/1166445/image" group-title="WNBA",Toronto Tempo vs Atlanta Dream - SportzX WNBA
+https://chatgpt.hereisman.net/playlist/53385/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50057" tvg-name="Toronto Tempo vs Atlanta Dream" tvg-logo="https://img.sofascore.com/api/v1/team/1166445/image" group-title="WNBA",Toronto Tempo vs Atlanta Dream - SportzX Live
+https://edgestream1.pro/hls/sqhdghzavbxu75.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50058" tvg-name="Mercury vs Connecticut Sun" tvg-logo="https://img.sofascore.com/api/v1/team/3444/image" group-title="WNBA",Mercury vs Connecticut Sun - SportzX Live
+https://edgestream3.pro/hls/xcsfadafgzfg76.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50060" tvg-name="West Indies vs New Zealand" tvg-logo="https://img.sofascore.com/api/v1/team/187760/image" group-title="Cricket",West Indies vs New Zealand - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -248,6 +312,16 @@ https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
 
 #EXTINF:-1 tvg-id="50060" tvg-name="West Indies vs New Zealand" tvg-logo="https://img.sofascore.com/api/v1/team/187760/image" group-title="Cricket",West Indies vs New Zealand - LOW SERVER
 http://193.47.62.53/hls/HYYYZQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="50061" tvg-name="SFU vs WF" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Major League Cricket",SFU vs WF - WILLOW FHD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6de3083c1e22cb49d140d846a1535e88:3aa84e5a5240f125ac292458bcbcd1e8
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tgxt1qnhdq/out/v1/168a6d5649b141dbbc30b408f3f1f083/cenc.mpd
+
+#EXTINF:-1 tvg-id="50061" tvg-name="SFU vs WF" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Major League Cricket",SFU vs WF - WILLOW ALT MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a7111079036ea39999d0da6be9f8d9:26f5326bf03cb3467e15a49e4a1fc8c8
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qeuihkyzy3/out/v1/9ef04a16cfb04fc69c1138f56550bed6/cenc.mpd
 
 #EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16/image" group-title="FIFA World Cup",France vs England - FIFA WC FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -726,100 +800,53 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manip
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nsuvwbv5a0/out/v1/745ffbb961054110852973877632f4e9/f7dd18d6-fb4d-4a8a-80fb-0cea8594021e-cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=primevideo.com&origin=primevideo.com
 
 #EXTINF:-1 tvg-id="50073" tvg-name="Club Tijuana vs Tigres UANL" tvg-logo="https://img.sofascore.com/api/v1/team/36525/image" group-title="Liga MX",Club Tijuana vs Tigres UANL - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://pulltx.cqsycw.com/live/sd-6Mwdpnt4FAuPter7zn.m3u8?txSecret=4b573387403c74d741bcd50f595ef2b9&txTime=6A59C120
+
+#EXTINF:-1 tvg-id="50073" tvg-name="Club Tijuana vs Tigres UANL" tvg-logo="https://img.sofascore.com/api/v1/team/36525/image" group-title="Liga MX",Club Tijuana vs Tigres UANL - LOW SERVER
+http://193.47.62.41/hls/ZGGGQQ.m3u8|Referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50074" tvg-name="Seattle Sounders vs Portland Timbers" tvg-logo="https://img.sofascore.com/api/v1/team/22009/image" group-title="MLS 🇺🇸",Seattle Sounders vs Portland Timbers - TSN SPORTS FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50085" tvg-name="Phillies vs New York Mets" tvg-logo="https://img.sofascore.com/api/v1/team/3635/image" group-title="MLB",Phillies vs New York Mets - TSN SPORTS FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="50074" tvg-name="Seattle Sounders vs Portland Timbers" tvg-logo="https://img.sofascore.com/api/v1/team/22009/image" group-title="MLS 🇺🇸",Seattle Sounders vs Portland Timbers - SportzX MLS
+https://chatgpt.hereisman.net/playlist/53411/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-id="50085" tvg-name="Phillies vs New York Mets" tvg-logo="https://img.sofascore.com/api/v1/team/3635/image" group-title="MLB",Phillies vs New York Mets - SportzX Live
-https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 tvg-id="50074" tvg-name="Seattle Sounders vs Portland Timbers" tvg-logo="https://img.sofascore.com/api/v1/team/22009/image" group-title="MLS 🇺🇸",Seattle Sounders vs Portland Timbers - SportzX Live
+https://pulltx.cqsycw.com/live/sd-6MvZ6B9GPSMkk8utgN.m3u8?txSecret=0927a998c9155493a3826a2844a2ffc9&txTime=6A59C030
 
-#EXTINF:-1 tvg-id="50086" tvg-name="Thunder vs Dallas Mavericks" tvg-logo="https://img.sofascore.com/api/v1/team/3418/image" group-title="NBA",Thunder vs Dallas Mavericks - SportzX NBA
+#EXTINF:-1 tvg-id="50074" tvg-name="Seattle Sounders vs Portland Timbers" tvg-logo="https://img.sofascore.com/api/v1/team/22009/image" group-title="MLS 🇺🇸",Seattle Sounders vs Portland Timbers - SD SERVER
+https://d4.vtoc.live/vdc10012227/QzEMNv4wE73hLXG67mFVGg/2c340b92cab76c421b86b57bfaf2/1784263761/playlist.m3u8
+
+#EXTINF:-1 tvg-id="50086" tvg-name="Charlotte Hornets vs Kings" tvg-logo="https://img.sofascore.com/api/v1/team/3430/image" group-title="NBA",Charlotte Hornets vs Kings - SportzX NBA
 https://chatgpt.hereisman.net/playlist/53392/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-id="50086" tvg-name="Thunder vs Dallas Mavericks" tvg-logo="https://img.sofascore.com/api/v1/team/3418/image" group-title="NBA",Thunder vs Dallas Mavericks - SportzX Live
+#EXTINF:-1 tvg-id="50086" tvg-name="Charlotte Hornets vs Kings" tvg-logo="https://img.sofascore.com/api/v1/team/3430/image" group-title="NBA",Charlotte Hornets vs Kings - SportzX Live
 https://edgestream1.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50087" tvg-name="Rockets vs Brooklyn Nets" tvg-logo="https://img.sofascore.com/api/v1/team/3412/image" group-title="NBA",Rockets vs Brooklyn Nets - SportzX NBA
+#EXTINF:-1 tvg-id="50087" tvg-name="Cavaliers vs Chicago Bulls" tvg-logo="https://img.sofascore.com/api/v1/team/3432/image" group-title="NBA",Cavaliers vs Chicago Bulls - SportzX NBA
 https://chatgpt.hereisman.net/playlist/53395/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-id="50087" tvg-name="Rockets vs Brooklyn Nets" tvg-logo="https://img.sofascore.com/api/v1/team/3412/image" group-title="NBA",Rockets vs Brooklyn Nets - SportzX Live
+#EXTINF:-1 tvg-id="50087" tvg-name="Cavaliers vs Chicago Bulls" tvg-logo="https://img.sofascore.com/api/v1/team/3432/image" group-title="NBA",Cavaliers vs Chicago Bulls - SportzX Live
 https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50088" tvg-name="Chicago Bulls vs Lakers" tvg-logo="https://img.sofascore.com/api/v1/team/3409/image" group-title="NBA",Chicago Bulls vs Lakers - SportzX NBA
-https://chatgpt.hereisman.net/playlist/53397/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50088" tvg-name="Chicago Bulls vs Lakers" tvg-logo="https://img.sofascore.com/api/v1/team/3409/image" group-title="NBA",Chicago Bulls vs Lakers - SportzX Live
+#EXTINF:-1 tvg-id="50088" tvg-name="Knicks vs Dallas Mavericks" tvg-logo="https://img.sofascore.com/api/v1/team/3421/image" group-title="NBA",Knicks vs Dallas Mavericks - SportzX Live
 https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50089" tvg-name="Knicks vs Warriors" tvg-logo="https://img.sofascore.com/api/v1/team/3421/image" group-title="NBA",Knicks vs Warriors - TSN SPORTS MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50089" tvg-name="Knicks vs Warriors" tvg-logo="https://img.sofascore.com/api/v1/team/3421/image" group-title="NBA",Knicks vs Warriors - SportzX Live
+#EXTINF:-1 tvg-id="50089" tvg-name="Miami Heat vs Detroit Pistons" tvg-logo="https://img.sofascore.com/api/v1/team/3435/image" group-title="NBA",Miami Heat vs Detroit Pistons - SportzX Live
 https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50090" tvg-name="Hawks vs Memphis Grizzlies" tvg-logo="https://img.sofascore.com/api/v1/team/3423/image" group-title="NBA",Hawks vs Memphis Grizzlies - SportzX NBA
-https://chatgpt.hereisman.net/playlist/53404/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50090" tvg-name="Hawks vs Memphis Grizzlies" tvg-logo="https://img.sofascore.com/api/v1/team/3423/image" group-title="NBA",Hawks vs Memphis Grizzlies - SportzX Live
-https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50091" tvg-name="Club Necaxa vs Atlante" tvg-logo="https://img.sofascore.com/api/v1/team/1944/image" group-title="Liga MX",Club Necaxa vs Atlante - FOX DEPORTES MPD
+#EXTINF:-1 tvg-id="50090" tvg-name="Sydney Swans vs Adelaide Crows" tvg-logo="https://img.sofascore.com/api/v1/team/4447/image" group-title="AFL",Sydney Swans vs Adelaide Crows - FOX SPORTS FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="50091" tvg-name="Club Necaxa vs Atlante" tvg-logo="https://img.sofascore.com/api/v1/team/1944/image" group-title="Liga MX",Club Necaxa vs Atlante - SportzX Live
-https://pul-tenm.nbs3g.com/live/sd-1-4553795.m3u8?txSecret=c0efa74e7a7d083e1511b08a1376a29a&txTime=6A5ACE30
+#EXTINF:-1 tvg-id="50091" tvg-name="Sharks vs Newcastle Knights" tvg-logo="https://img.sofascore.com/api/v1/team/4266/image" group-title="NRL Rugby",Sharks vs Newcastle Knights - SportzX Live
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
 
-#EXTINF:-1 tvg-id="50091" tvg-name="Club Necaxa vs Atlante" tvg-logo="https://img.sofascore.com/api/v1/team/1944/image" group-title="Liga MX",Club Necaxa vs Atlante - LOW SERVER
-http://193.47.62.41/hls/GRGRGRQQQQQQ.m3u8?|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50092" tvg-name="CF Montréal vs Toronto" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="MLS 🇺🇸",CF Montréal vs Toronto - TSN SPORTS FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50092" tvg-name="CF Montréal vs Toronto" tvg-logo="https://img.sofascore.com/api/v1/team/22006/image" group-title="MLS 🇺🇸",CF Montréal vs Toronto - SportzX Live
-https://chatgpt.hereisman.net/playlist/53405/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50093" tvg-name="Botafogo vs Santos" tvg-logo="https://img.sofascore.com/api/v1/team/1958/image" group-title="Brasileirão",Botafogo vs Santos - Premier Sports MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-id="50093" tvg-name="Botafogo vs Santos" tvg-logo="https://img.sofascore.com/api/v1/team/1958/image" group-title="Brasileirão",Botafogo vs Santos - PREMIERER BR MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
-
-#EXTINF:-1 tvg-id="50093" tvg-name="Botafogo vs Santos" tvg-logo="https://img.sofascore.com/api/v1/team/1958/image" group-title="Brasileirão",Botafogo vs Santos - SportDigital Fussball MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="50094" tvg-name="Vitória vs Vasco da Gama" tvg-logo="https://img.sofascore.com/api/v1/team/1962/image" group-title="Brasileirão",Vitória vs Vasco da Gama - PREMIERER BR MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-
-#EXTINF:-1 tvg-id="50095" tvg-name="Glenavon vs Doncaster Rovers" tvg-logo="https://img.sofascore.com/api/v1/team/5183/image" group-title="Club Friendly",Glenavon vs Doncaster Rovers - SportzX Live
-https://pul-tenm.nbs3g.com/live/sd-1-4585568.m3u8?txSecret=adf8ef8474299b9cea97c7f90f08cc9b&txTime=6A5A78E0
-
-#EXTINF:-1 tvg-id="50095" tvg-name="Glenavon vs Doncaster Rovers" tvg-logo="https://img.sofascore.com/api/v1/team/5183/image" group-title="Club Friendly",Glenavon vs Doncaster Rovers - LOW SERVER
-http://193.47.62.41/hls/TTTGGG.m3u8?|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50096" tvg-name="Bradford Bulls vs Wakefield Trinity" tvg-logo="https://img.sofascore.com/api/v1/team/4272/image" group-title="Rugby",Bradford Bulls vs Wakefield Trinity - LOW QUALITY
-http://193.47.62.53/hls/UKKKAQQ.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-id="50092" tvg-name="Roosters vs Melbourne Storm" tvg-logo="https://img.sofascore.com/api/v1/team/4264/image" group-title="NRL Rugby",Roosters vs Melbourne Storm - SportzX Live
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="TNT Sports",TNT Sports 1 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
