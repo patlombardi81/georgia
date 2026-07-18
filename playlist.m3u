@@ -829,16 +829,16 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manip
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nsuvwbv5a0/out/v1/745ffbb961054110852973877632f4e9/f7dd18d6-fb4d-4a8a-80fb-0cea8594021e-cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=primevideo.com&origin=primevideo.com
 
 #EXTINF:-1 tvg-id="50075" tvg-name="Guardians vs Pittsburgh Pirates" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Pittsburgh Pirates - SportzX Live
-https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50076" tvg-name="Chicago Cubs vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3627/image" group-title="MLB",Chicago Cubs vs Minnesota Twins - SportzX Live
-https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50077" tvg-name="Blue Jays vs White Sox" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Blue Jays vs White Sox - SportzX Live
 https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50078" tvg-name="Rockies vs Cincinnati Reds" tvg-logo="https://img.sofascore.com/api/v1/team/3628/image" group-title="MLB",Rockies vs Cincinnati Reds - SportzX Live
-https://edgestream1.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream2.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50079" tvg-name="Phillies vs New York Mets" tvg-logo="https://img.sofascore.com/api/v1/team/3635/image" group-title="MLB",Phillies vs New York Mets - SportzX Live
 https://edgestream1.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -879,14 +879,11 @@ https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3
 #EXTINF:-1 tvg-id="50091" tvg-name="Manchester United vs Wrexham" tvg-logo="https://img.sofascore.com/api/v1/team/35/image" group-title="Club Friendly",Manchester United vs Wrexham - MU TV
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 
+#EXTINF:-1 tvg-id="50091" tvg-name="Manchester United vs Wrexham" tvg-logo="https://img.sofascore.com/api/v1/team/35/image" group-title="Club Friendly",Manchester United vs Wrexham - Sportscast FHD
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/445db9eb-0ebc-4035-9598-e637f934abc8/master.m3u8
+
 #EXTINF:-1 tvg-id="50091" tvg-name="Manchester United vs Wrexham" tvg-logo="https://img.sofascore.com/api/v1/team/35/image" group-title="Club Friendly",Manchester United vs Wrexham - MU TV MPD
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd
-
-#EXTINF:-1 tvg-id="50092" tvg-name="Dundee FC vs Everton" tvg-logo="https://img.sofascore.com/api/v1/team/2357/image" group-title="Club Friendly",Dundee FC vs Everton - SportzX Live
-https://live.vivo200.com/live/sd-1-4586403.m3u8?txSecret=e7be5ee93a905e08c0cf06fc5d8f281b&txTime=6A5B92AE|referer=https://player.online909.com/
-
-#EXTINF:-1 tvg-id="50092" tvg-name="Dundee FC vs Everton" tvg-logo="https://img.sofascore.com/api/v1/team/2357/image" group-title="Club Friendly",Dundee FC vs Everton - HD SERVER
-https://hls.streamhub.media/hls/thesport-api-5985834c24afb9f6488a/master.m3u8
 
 #EXTINF:-1 tvg-id="50093" tvg-name="Argentina vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4225/image" group-title="Rugby",Argentina vs England - ITV SPORTS FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
