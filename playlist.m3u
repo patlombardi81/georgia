@@ -828,8 +828,17 @@ https://chatgpt.hereisman.net/playlist/53475/load-playlist?|Referer=https://gooz
 #EXTINF:-1 tvg-id="50075" tvg-name="Guardians vs Pittsburgh Pirates" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Pittsburgh Pirates - SportzX Live
 https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
+#EXTINF:-1 tvg-id="50076" tvg-name="Chicago Cubs vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3627/image" group-title="MLB",Chicago Cubs vs Minnesota Twins - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53477/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50076" tvg-name="Chicago Cubs vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3627/image" group-title="MLB",Chicago Cubs vs Minnesota Twins - MLB LIVE HD
+https://chatgpt.hereisman.net/playlist/53478/load-playlist?|Referer=https://gooz.aapmains.net
+
 #EXTINF:-1 tvg-id="50076" tvg-name="Chicago Cubs vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3627/image" group-title="MLB",Chicago Cubs vs Minnesota Twins - SportzX Live
 https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50077" tvg-name="Blue Jays vs White Sox" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Blue Jays vs White Sox - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53473/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50077" tvg-name="Blue Jays vs White Sox" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Blue Jays vs White Sox - SportzX Live
 https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -920,39 +929,24 @@ https://live.vivo200.com/live/sd-1-4584528.m3u8?txSecret=c60212596bd784119f7687a
 #EXTINF:-1 tvg-id="50098" tvg-name="AFC Ajax vs Olympiacos" tvg-logo="https://img.sofascore.com/api/v1/team/2953/image" group-title="Club Friendly",AFC Ajax vs Olympiacos - SD SERVER
 http://193.47.62.49/hls/YNNNQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-id="50099" tvg-name="Celtic vs Middlesbrough" tvg-logo="https://img.sofascore.com/api/v1/team/2352/image" group-title="Club Friendly",Celtic vs Middlesbrough - SD SERVER
-http://193.47.62.46/hls/IAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50100" tvg-name="Lotte vs Real Betis" tvg-logo="https://img.sofascore.com/api/v1/team/5844/image" group-title="Club Friendly",Lotte vs Real Betis - SportzX Live
-https://live.vivo200.com/live/sd-1-4587780.m3u8?txSecret=1d6f9a6c324cb7b62cd7a4b5d810cd78&txTime=6A5B92D8|referer=https://player.online909.com/
-
-#EXTINF:-1 tvg-id="50100" tvg-name="Lotte vs Real Betis" tvg-logo="https://img.sofascore.com/api/v1/team/5844/image" group-title="Club Friendly",Lotte vs Real Betis - HD SERVER
-https://hls.streamhub.media/hls/thesport-api-076cecf54325a5407fe3/master.m3u8
-
-#EXTINF:-1 tvg-id="50100" tvg-name="Lotte vs Real Betis" tvg-logo="https://img.sofascore.com/api/v1/team/5844/image" group-title="Club Friendly",Lotte vs Real Betis - SD SERVER
-http://193.47.62.49/hls/YNNNQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50101" tvg-name="Hampshire vs Nottinghamshire" tvg-logo="https://img.sofascore.com/api/v1/team/187821/image" group-title="T20 Blast",Hampshire vs Nottinghamshire - WILLOW FHD MPD
+#EXTINF:-1 tvg-id="50101" tvg-name="Hampshire vs Nottinghamshire" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="T20 Blast",Hampshire vs Nottinghamshire - WILLOW - FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3a95de0732808b96c314479df1586b1:0818f1d8c7c47fcbe543e2435ff44143
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iwyh0vj3ac/out/v1/03c3c3439673443d972401e438d1a29a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=c19c0062404ac30d42291fbfadba323e:6086d22b65e8e988f4b6da3e34a3e2c3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50101" tvg-name="Hampshire vs Nottinghamshire" tvg-logo="https://img.sofascore.com/api/v1/team/187821/image" group-title="T20 Blast",Hampshire vs Nottinghamshire - CRICKET FHD
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
-#EXTINF:-1 tvg-id="50101" tvg-name="Hampshire vs Nottinghamshire" tvg-logo="https://img.sofascore.com/api/v1/team/187821/image" group-title="T20 Blast",Hampshire vs Nottinghamshire - TAPMAD - FHD
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?|referer=https://tapmad.com
-
-#EXTINF:-1 tvg-id="50101" tvg-name="Hampshire vs Nottinghamshire" tvg-logo="https://img.sofascore.com/api/v1/team/187821/image" group-title="T20 Blast",Hampshire vs Nottinghamshire - WILLOW - ALT MPD
+#EXTINF:-1 tvg-id="50101" tvg-name="Hampshire vs Nottinghamshire" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="T20 Blast",Hampshire vs Nottinghamshire - WILLOW - ALT MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3a95de0732808b96c314479df1586b1:0818f1d8c7c47fcbe543e2435ff44143
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iwyh0vj3ac/out/v1/03c3c3439673443d972401e438d1a29a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=c19c0062404ac30d42291fbfadba323e:6086d22b65e8e988f4b6da3e34a3e2c3
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd
 
 #EXTINF:-1 tvg-id="50101" tvg-name="Hampshire vs Nottinghamshire" tvg-logo="https://img.sofascore.com/api/v1/team/187821/image" group-title="T20 Blast",Hampshire vs Nottinghamshire - SonyLiv
 https://sonymtmnew-akamaized.pages.dev/hls/live/20000295/criclive1807/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ddd957f2ac5534f4b94466bbcc9c4c88-1784368200117
 
-#EXTINF:-1 tvg-id="50102" tvg-name="Baumberg vs Bayer Leverkusen" tvg-logo="https://img.sofascore.com/api/v1/team/75725/image" group-title="Club Friendly",Baumberg vs Bayer Leverkusen - SD SERVER
-http://193.47.62.49/hls/YNNNQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-id="50101" tvg-name="Hampshire vs Nottinghamshire" tvg-logo="https://img.sofascore.com/api/v1/team/187821/image" group-title="T20 Blast",Hampshire vs Nottinghamshire - TAPMAD - FHD
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?|referer=https://tapmad.com
 
 #EXTINF:-1 tvg-id="50103" tvg-name="Calgary vs Montreal" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="CFL",Calgary vs Montreal - TSN SPORTS MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
