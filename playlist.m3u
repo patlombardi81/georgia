@@ -1,16 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="F1",Formula 1 - FANCODE FHD MPD
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - TSN SPORTS MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - FANCODE FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="F1",Formula 1 - SportzX F1 HD
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SportzX F1 HD
 https://chatgpt.hereisman.net/playlist/53414/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - APPLE TV FHD
 https://g001.sadhoofiton.shop/out/v2/6e0780e1a8fac7f0f00eef9a0828f0d0/index.m3u8?|referer=https://pushembdz.store/
 
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="F1",Formula 1 - FOX SPORTS FHD
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - FOX SPORTS FHD
 https://g001.sadhoofiton.shop/out/v2/6e0780e1a8fac7f0f00eef9a0828f0d0/index.m3u8?|referer=https://pushembdz.store/
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - DAZN ESPANOL
@@ -40,7 +45,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1783116672_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
 
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="F1",Formula 1 - SKY SPORTS HD
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SKY SPORTS HD
 https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - ELEVEN SPORTS MPD
@@ -48,15 +53,10 @@ https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.o
 #KODIPROP:inputstream.adaptive.license_key=69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59
 https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
 
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="F1",Formula 1 - Fox Sports - AQ MPD
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - Fox Sports - AQ MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
-
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="F1",Formula 1 - TSN SPORTS FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50003" tvg-name="MotoGP" tvg-logo="https://img.sofascore.com/api/v1/category/1325/image" group-title="MotoGP",MotoGP - MotoGP FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -255,6 +255,36 @@ https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_h
 #KODIPROP:inputstream.adaptive.license_key=e369d9ab101d4b60ba13c0384f503528:041e35e31381521b3398af5c6dd99414
 https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
 
+#EXTINF:-1 tvg-id="50032" tvg-name="Cleveland Guardians" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Cleveland Guardians - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53448/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50032" tvg-name="Cleveland Guardians" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Cleveland Guardians - SportzX LIVE
+https://edgestream3.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50033" tvg-name="New York Yankees" tvg-logo="https://img.sofascore.com/api/v1/team/3654/image" group-title="MLB",New York Yankees - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53454/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50033" tvg-name="New York Yankees" tvg-logo="https://img.sofascore.com/api/v1/team/3654/image" group-title="MLB",New York Yankees - SportzX Live
+https://edgestream2.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50034" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Seattle Mariners - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53455/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50034" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Seattle Mariners - SportzX Live
+https://edgestream2.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50052" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3645/image" group-title="MLB",Washington Nationals - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53457/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50052" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3645/image" group-title="MLB",Washington Nationals - SportzX Live
+https://edgestream3.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50053" tvg-name="Detroit Tigers" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",Detroit Tigers - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53463/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50053" tvg-name="Detroit Tigers" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",Detroit Tigers - SportzX Live
+https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
 #EXTINF:-1 tvg-id="50054" tvg-name="CFL" tvg-logo="https://img.sofascore.com/api/v1/team/4434/image" group-title="CFL",CFL - TSN SPORTS FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
@@ -318,6 +348,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75f854d2c277ce9e3735817f9c6c77ad:9c4f93decc3c9a4065e8f4e09a3adecc
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd
+
+#EXTINF:-1 tvg-id="50062" tvg-name="MAJOR LEAGUE" tvg-logo="https://img.sofascore.com/api/v1/team/485011/image" group-title="Major League Cricket",MAJOR LEAGUE - Willow HD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16/image" group-title="FIFA World Cup",France vs England - FIFA WC FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -819,7 +854,7 @@ https://edgestream2.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.onl
 #EXTINF:-1 tvg-id="50082" tvg-name="Red Sox vs Tampa Bay Rays" tvg-logo="https://img.sofascore.com/api/v1/team/3646/image" group-title="MLB",Red Sox vs Tampa Bay Rays - SportzX Live
 https://edgestream3.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50083" tvg-name="Guardians vs Pittsburgh Pirates" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Pittsburgh Pirates - SportzX Live
+#EXTINF:-1 tvg-id="50083" tvg-name="Royals vs San Diego Padres" tvg-logo="https://img.sofascore.com/api/v1/team/3651/image" group-title="MLB",Royals vs San Diego Padres - SportzX Live
 https://edgestream2.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50084" tvg-name="Astros vs Baltimore Orioles" tvg-logo="https://img.sofascore.com/api/v1/team/3655/image" group-title="MLB",Astros vs Baltimore Orioles - SportzX Live
@@ -843,34 +878,25 @@ https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.
 #EXTINF:-1 tvg-id="50090" tvg-name="Phoenix Suns vs Spurs" tvg-logo="https://img.sofascore.com/api/v1/team/3416/image" group-title="NBA",Phoenix Suns vs Spurs - SportzX Live
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 
-#EXTINF:-1 tvg-id="50091" tvg-name="Port Adelaide vs Fremantle" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="AFL",Port Adelaide vs Fremantle - FOX SPORTS 2 MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="50091" tvg-name="Manchester United vs Wrexham" tvg-logo="https://img.sofascore.com/api/v1/team/35/image" group-title="Club Friendly",Manchester United vs Wrexham - MU TV
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-id="50092" tvg-name="Melbourne vs Melbourne Demons" tvg-logo="https://img.sofascore.com/api/v1/team/4454/image" group-title="AFL",Melbourne vs Melbourne Demons - FOX SPORTS 2 MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+#EXTINF:-1 tvg-id="50091" tvg-name="Manchester United vs Wrexham" tvg-logo="https://img.sofascore.com/api/v1/team/35/image" group-title="Club Friendly",Manchester United vs Wrexham - MU TV MPD
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd
 
-#EXTINF:-1 tvg-id="50093" tvg-name="New Zealand vs Ireland" tvg-logo="https://img.sofascore.com/api/v1/team/4227/image" group-title="Rugby",New Zealand vs Ireland - ITV SPORTS FHD MPD
+#EXTINF:-1 tvg-id="50092" tvg-name="Dundee FC vs Everton" tvg-logo="https://img.sofascore.com/api/v1/team/2357/image" group-title="Club Friendly",Dundee FC vs Everton - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50093" tvg-name="Argentina vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4225/image" group-title="Rugby",Argentina vs England - ITV SPORTS FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50093" tvg-name="New Zealand vs Ireland" tvg-logo="https://img.sofascore.com/api/v1/team/4227/image" group-title="Rugby",New Zealand vs Ireland - HD SERVER
+#EXTINF:-1 tvg-id="50093" tvg-name="Argentina vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4225/image" group-title="Rugby",Argentina vs England - HD SERVER
 https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
 
-#EXTINF:-1 tvg-id="50093" tvg-name="New Zealand vs Ireland" tvg-logo="https://img.sofascore.com/api/v1/team/4227/image" group-title="Rugby",New Zealand vs Ireland - SD SERVER
-http://193.47.62.41/hls/TAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50094" tvg-name="Japan vs France" tvg-logo="https://img.sofascore.com/api/v1/team/7955/image" group-title="Rugby",Japan vs France - ITV SPORTS FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12
-https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50094" tvg-name="Japan vs France" tvg-logo="https://img.sofascore.com/api/v1/team/7955/image" group-title="Rugby",Japan vs France - HD SERVER
-https://tmaxapp.site/8wirwjs76erftg/skysport5nz.m3u8
+#EXTINF:-1 tvg-id="50094" tvg-name="Brewers vs Miami Marlins" tvg-logo="https://img.sofascore.com/api/v1/team/3630/image" group-title="MLB",Brewers vs Miami Marlins - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 
 #EXTINF:-1 tvg-id="50095" tvg-name="Australia vs Italy" tvg-logo="https://img.sofascore.com/api/v1/team/4223/image" group-title="Rugby",Australia vs Italy - ITV SPORTS FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -895,6 +921,34 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1
 
 #EXTINF:-1 tvg-id="50097" tvg-name="South Africa vs Wales" tvg-logo="https://img.sofascore.com/api/v1/team/4231/image" group-title="Rugby",South Africa vs Wales - HD SERVER
 https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
+
+#EXTINF:-1 tvg-id="50098" tvg-name="AFC Ajax vs Olympiacos" tvg-logo="https://img.sofascore.com/api/v1/team/2953/image" group-title="Club Friendly",AFC Ajax vs Olympiacos - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50099" tvg-name="Celtic vs Middlesbrough" tvg-logo="https://img.sofascore.com/api/v1/team/2352/image" group-title="Club Friendly",Celtic vs Middlesbrough - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50100" tvg-name="Lotte vs Real Betis" tvg-logo="https://img.sofascore.com/api/v1/team/5844/image" group-title="Club Friendly",Lotte vs Real Betis - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50101" tvg-name="Northamptonshire vs Somerset" tvg-logo="https://img.sofascore.com/api/v1/team/187831/image" group-title="T20 Blast",Northamptonshire vs Somerset - WILLOW FHD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a98a0ff617487177711ccd3529a79d5:9b42b490dc0075cf94f51b226a779045
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/prn9i8ze4a/out/v1/2bda444a547e4c8787b962c1ba8ae551/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50101" tvg-name="Northamptonshire vs Somerset" tvg-logo="https://img.sofascore.com/api/v1/team/187831/image" group-title="T20 Blast",Northamptonshire vs Somerset - CRICKET FHD
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="50101" tvg-name="Northamptonshire vs Somerset" tvg-logo="https://img.sofascore.com/api/v1/team/187831/image" group-title="T20 Blast",Northamptonshire vs Somerset - TAPMAD - FHD
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8 |referer=https://tapmad.com
+
+#EXTINF:-1 tvg-id="50101" tvg-name="Northamptonshire vs Somerset" tvg-logo="https://img.sofascore.com/api/v1/team/187831/image" group-title="T20 Blast",Northamptonshire vs Somerset - WILLOW - ALT MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a98a0ff617487177711ccd3529a79d5:9b42b490dc0075cf94f51b226a779045
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/prn9i8ze4a/out/v1/2bda444a547e4c8787b962c1ba8ae551/cenc.mpd
+
+#EXTINF:-1 tvg-id="50101" tvg-name="Northamptonshire vs Somerset" tvg-logo="https://img.sofascore.com/api/v1/team/187831/image" group-title="T20 Blast",Northamptonshire vs Somerset - SonyLiv
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000295/criclive1807/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ddd957f2ac5534f4b94466bbcc9c4c88-1784368200117
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="TNT Sports",TNT Sports 1 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
