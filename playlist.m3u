@@ -252,9 +252,6 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Refe
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
-#EXTINF:-1 tvg-id="50013" tvg-name="Phoenix Suns" tvg-logo="https://img.sofascore.com/api/v1/team/3416/image" group-title="NBA",Phoenix Suns - SportzX Live
-https://edgestream2.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
 #EXTINF:-1 tvg-id="50019" tvg-name="Tour de France" tvg-logo="https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png" group-title="Tour de France",Tour de France - EUROSPORT1 FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -274,18 +271,6 @@ https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_h
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e369d9ab101d4b60ba13c0384f503528:041e35e31381521b3398af5c6dd99414
 https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
-
-#EXTINF:-1 tvg-id="50052" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3645/image" group-title="MLB",Washington Nationals - SportzX MLB
-https://chatgpt.hereisman.net/playlist/53529/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50052" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3645/image" group-title="MLB",Washington Nationals - SportzX Live
-https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50053" tvg-name="Detroit Tigers" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",Detroit Tigers - SportzX MLB
-https://chatgpt.hereisman.net/playlist/53528/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50053" tvg-name="Detroit Tigers" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",Detroit Tigers - SportzX Live
-https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50054" tvg-name="CFL" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="CFL",CFL - TSN 1 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -352,19 +337,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ly2lruzgx2/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b01ff121603a3cddd09976f66f9feb12:952f80607b8666022fb5cc2d95df096c
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ly2lruzgx2/out/v1/d1b297d066fb4a1ab26c2f9c22a9f1a5/cenc.mpd
-
-#EXTINF:-1 tvg-id="50062" tvg-name="MAJOR LEAGUE" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Major League Cricket",MAJOR LEAGUE - WILLOW FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=613080a865a801eaf441ec5bc605b5e4:8ec1b70270472910e4aca31d16d1c5ea
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50062" tvg-name="MAJOR LEAGUE" tvg-logo="https://img.sofascore.com/api/v1/team/485011/image" group-title="Major League Cricket",MAJOR LEAGUE - CRICKET FHD
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-
-#EXTINF:-1 tvg-id="50062" tvg-name="MAJOR LEAGUE" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Major League Cricket",MAJOR LEAGUE - WILLOW - ALT MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=613080a865a801eaf441ec5bc605b5e4:8ec1b70270472910e4aca31d16d1c5ea
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd
 
 #EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/4698/image" group-title="FIFA World Cup",Spain vs Argentina - FOX ONE - AQ MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -593,15 +565,6 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manip
 #KODIPROP:inputstream.adaptive.license_key=357ccea271387c3288cc8c2301f13d35:6d99d34e858d22ab5954d8df8622106a
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nsuvwbv5a0/out/v1/745ffbb961054110852973877632f4e9/f7dd18d6-fb4d-4a8a-80fb-0cea8594021e-cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=primevideo.com&origin=primevideo.com
 
-#EXTINF:-1 tvg-id="50074" tvg-name="Querétaro vs Club América" tvg-logo="https://img.sofascore.com/api/v1/team/1951/image" group-title="Liga MX",Querétaro vs Club América - SportzX Live
-https://pulltx.cqsycw.com/live/sd-6MwdpntpZpAgTFRg8N.m3u8?txSecret=3bbed632a59ba888e5c26f657cf094e1&txTime=6A5C6AB0
-
-#EXTINF:-1 tvg-id="50074" tvg-name="Querétaro vs Club América" tvg-logo="https://img.sofascore.com/api/v1/team/1951/image" group-title="Liga MX",Querétaro vs Club América - TUDN MX HD
-https://ce3.vtoc.live/vdc10012139/LhjE3_w01mVxvGX-mSun7Q/2c340b92cab76c421982ce68fbf35f/1784437901/playlist.m3u8
-
-#EXTINF:-1 tvg-id="50074" tvg-name="Querétaro vs Club América" tvg-logo="https://img.sofascore.com/api/v1/team/1951/image" group-title="Liga MX",Querétaro vs Club América - LOW QUALITY
-https://hls.streamhub.media/hls/thesport-api-19be5892a432b8ce226c/master.m3u8
-
 #EXTINF:-1 tvg-id="50075" tvg-name="Blue Jays vs White Sox" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Blue Jays vs White Sox - SportzX MLB
 https://chatgpt.hereisman.net/playlist/53475/load-playlist?|Referer=https://gooz.aapmains.net/
 
@@ -656,7 +619,7 @@ https://edgestream3.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.on
 #EXTINF:-1 tvg-id="50084" tvg-name="Chicago Cubs vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3627/image" group-title="MLB",Chicago Cubs vs Minnesota Twins - SportzX Live
 https://edgestream1.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50085" tvg-name="Richmond Tigers vs Hawthorn Hawks" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="AFL",Richmond Tigers vs Hawthorn Hawks - FOX SPORTS 2 MPD
+#EXTINF:-1 tvg-id="50085" tvg-name="Tigers vs Hawthorn Hawks" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="AFL",Tigers vs Hawthorn Hawks - FOX SPORTS 2 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
