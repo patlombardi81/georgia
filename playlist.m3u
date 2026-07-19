@@ -4,40 +4,68 @@
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - APPLE TV+ FHD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc12b57addecba1a491e81edcbaad57:9fcf7fef82dcc6399cafdb6a96809310
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lnnce28adq/out/v1/47847083b5fc4ccbb01871ee331ad8f7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - FANCODE FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SKY via APPLE TV MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51040efb59bf199bf09bcd79e4af435a:636de0aecb318b012f47eed0845f96df
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zl03cuvpb2/out/v1/7c64c4d71fae4ba7b80952ad71ed1e36/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - TSN Pit Channel MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=441bcbf22ad9ef1976ed7f52438896d0:40613b76138697041dac45cafe347bdc
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9hjkp3lpev/out/v1/1d92267fc4644b75934bb9be30f77d94/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - DRIVER TRACKER MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5b16183665abbcc90302a0a62c402fc:65eea0ca3c605b8d35b3780ed58f551d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qoagww87su/out/v1/4f52197b455644b78f9aa2801b418106/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SportzX F1 HD
 https://chatgpt.hereisman.net/playlist/53414/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - Sportscast FHD
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/03056e36-df99-4ace-a0a9-c1a423e4a558/master.m3u8
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34aa2c48-06de-4288-9af3-91f2622da979/master.m3u8
 
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - FOX SPORTS FHD
-https://g001.sadhoofiton.shop/out/v2/8d2457f8e8c603fff78a1aa3d8073336/index.m3u8?|referer=https://pushembdz.store/
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - APPLE TV 4K MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb1e6c51646986a652498a57b458d1d2:1b278aeea7b8978fa574ad0eb52758a2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pplmyagyhu/out/v1/6695d8753e6c4e318a0bc5c4a18de9b9/cenc.mpd
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - APPLE TV FHD
-https://g001.sadhoofiton.shop/out/v2/11a5c518fbca96b9df9df2935c431836/index.m3u8?|referer=https://pushembdz.store/
+https://g001.sadhoofiton.shop/out/v2/ac2635e55062b01925b85e38e422c5ed/index.m3u8?|referer=https://pushembdz.store/
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SKY SPORTS FHD
-https://g001.sadhoofiton.shop/out/v2/e032b64cd573b065f58aa4e38a3f19d8/index.m3u8?|referer=https://pushembdz.store/
+https://g001.sadhoofiton.shop/out/v2/470e8fd3ddfe844ace4ab0211e53e51b/index.m3u8?|referer=https://pushembdz.store/
+
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - FOX SPORTS FHD
+https://g001.sadhoofiton.shop/out/v2/a457e04618ba530dae3232c3f67233a6/index.m3u8?|referer=https://pushembdz.store/
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - RUSSIA FEED
-https://bl.rutube.ru/livestream/40a90b042d58ae5cfc34ed9f1d6c24b2/index.m3u8?s=d7qwkaBv3c1WWjMr_O0HPQ&e=1784468616&scheme=https|user-agent=Mozilla
+https://bl.rutube.ru/livestream/f0ddd7af7d20cad89139a493c62e5781/index.m3u8?s=vhffpbXtZKo9a0xXyYgc6g&e=1784551970&scheme=https|user-agent=Mozilla
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - DAZN ESPANOL
-https://g001.sadhoofiton.shop/out/v2/9e73c23d0346d2c26e34720f5c3b7800/index.m3u8?|referer=https://pushembdz.store/
+https://g001.sadhoofiton.shop/out/v2/c9bf8a242f762595afad533557e538b7/index.m3u8?|referer=https://pushembdz.store/
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SKY ITALY FHD
-https://g001.sadhoofiton.shop/out/v2/4fed0e7007c6f15306dc3e5bb6f6c23a/index.m3u8?|referer=https://pushembdz.store/
+https://g001.sadhoofiton.shop/out/v2/8c121b7272256bf76f49e5ef81b42a41/index.m3u8?|referer=https://pushembdz.store/
 
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - LOW RES
-https://g001.sadhoofiton.shop/out/v2/7220d992e5d959db3407b5a41cd54ae1/index.m3u8?|referer=https://pushembdz.store/
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SKY GERMAN FHD
+https://g001.sadhoofiton.shop/out/v2/d306bca69cb626f4e54baaac4e8005dd/index.m3u8?|referer=https://pushembdz.store/
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SD SERVER
-http://193.47.62.57/hls/FRRRE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.49/hls/RTRTRT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SD SERVER [SWE]
+http://193.47.62.58/hls/RTRTRT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - F1 GERMANY [USA] MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -47,12 +75,7 @@ https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.m
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SKY F1 ITALY [USA] MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1783116672_f~0_g~1_s~98c6f80d-d8db-4835-acdd-f182d706c4e9_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~56_x~15420348b54fab4bf8f860465989bff9/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd
-
-#EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - Tipik FRANCE FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784530473_f~0_g~1_s~bb9899b7-b1ef-488d-8571-28a918ca8617_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~56_x~1abee78f9c22a03a776634a99af835c6/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="50002" tvg-name="Formula 1" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="F1",Formula 1 - SKY SPORTS HD
 https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -148,7 +171,7 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=h
 https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50007" tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://img.sofascore.com/api/v1/team/187745/image" group-title="Cricket",Zimbabwe vs Bangladesh - TAPMAD FHD
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1
 
 #EXTINF:-1 tvg-id="50007" tvg-name="Zimbabwe vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",Zimbabwe vs Bangladesh - FANCODE SD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -166,6 +189,9 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_ba
 #KODIPROP:inputstream.adaptive.license_key=5be2590ab12743d21a1d377d8b5e7900:ff08faff3b5d2c874b62ec09e2db888c
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd
 
+#EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Cricket",England vs India - CRICKET FHD
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+
 #EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Cricket",England vs India - TAPMAD FHD
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|Referer=https://tapmad.com
 
@@ -175,10 +201,7 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|Refe
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd
 
 #EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Cricket",England vs India - LOW SERVER
-http://193.47.62.48/hls/ZAZAZAQQ.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="Cricket",England vs India - FOX CRICKET HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
+http://193.47.62.41/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50008" tvg-name="England vs India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Cricket",England vs India - SKY SPORT NZ
 https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
