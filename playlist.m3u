@@ -106,6 +106,26 @@ https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8|referer=https://instre
 #EXTINF:-1 tvg-id="50003" tvg-name="MotoGP" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png" group-title="MotoGP",MotoGP - CANAL+ HD
 https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
 
+#EXTINF:-1 tvg-id="50004" tvg-name="UFC" tvg-logo="https://img.sofascore.com/api/v1/team/461502/image" group-title="UFC",UFC - SportsNet FHD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50004" tvg-name="UFC" tvg-logo="https://img.sofascore.com/api/v1/team/461502/image" group-title="UFC",UFC - PARAMOUNT+ HD
+https://chatgpt.hereisman.net/playlist/53500/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50004" tvg-name="UFC" tvg-logo="https://img.sofascore.com/api/v1/team/461502/image" group-title="UFC",UFC - PARAMOUNT+ S2
+https://chatgpt.hereisman.net/playlist/53504/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50004" tvg-name="UFC" tvg-logo="https://img.sofascore.com/api/v1/team/461502/image" group-title="UFC",UFC - PARAMOUNT+ BR
+https://rdcstream.life/live/paramountplus/index.m3u8|referer=https://playerembed.xyz
+
+#EXTINF:-1 tvg-id="50004" tvg-name="UFC" tvg-logo="https://img.sofascore.com/api/v1/team/461502/image" group-title="UFC",UFC - SD TV (USE VPN)
+http://193.47.62.41/hls/suuu.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="50004" tvg-name="UFC" tvg-logo="https://img.sofascore.com/api/v1/team/461502/image" group-title="UFC",UFC - SportzX LIVE
+https://mainstreams.pro/hls/zeuryuegn48.m3u?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="50006" tvg-name="WWE" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="WWE",WWE - TSN SPORTS MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
@@ -232,9 +252,6 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Refe
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
-#EXTINF:-1 tvg-id="50012" tvg-name="Indiana Pacers" tvg-logo="https://img.sofascore.com/api/v1/team/5539/image" group-title="NBA",Indiana Pacers - SportzX Live
-https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="50013" tvg-name="Phoenix Suns" tvg-logo="https://img.sofascore.com/api/v1/team/3416/image" group-title="NBA",Phoenix Suns - SportzX Live
 https://edgestream2.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
@@ -258,22 +275,14 @@ https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_h
 #KODIPROP:inputstream.adaptive.license_key=e369d9ab101d4b60ba13c0384f503528:041e35e31381521b3398af5c6dd99414
 https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
 
-#EXTINF:-1 tvg-id="50032" tvg-name="Cleveland Guardians" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Cleveland Guardians - SportzX LIVE
-https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50033" tvg-name="New York Yankees" tvg-logo="https://img.sofascore.com/api/v1/team/3654/image" group-title="MLB",New York Yankees - FOX DEPORTES MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 tvg-id="50033" tvg-name="New York Yankees" tvg-logo="https://img.sofascore.com/api/v1/team/3654/image" group-title="MLB",New York Yankees - SportzX Live
-https://edgestream3.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50034" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Seattle Mariners - SportzX Live
-https://edgestream1.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 tvg-id="50052" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3645/image" group-title="MLB",Washington Nationals - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53529/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50052" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3645/image" group-title="MLB",Washington Nationals - SportzX Live
 https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50053" tvg-name="Detroit Tigers" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",Detroit Tigers - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53528/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50053" tvg-name="Detroit Tigers" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",Detroit Tigers - SportzX Live
 https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -293,13 +302,16 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50055" tvg-name="Indiana Fever vs Liberty" tvg-logo="https://img.sofascore.com/api/v1/team/3452/image" group-title="WNBA",Indiana Fever vs Liberty - SportzX Live
+#EXTINF:-1 tvg-id="50055" tvg-name="Dallas Wings vs Sparks" tvg-logo="https://img.sofascore.com/api/v1/team/3450/image" group-title="WNBA",Dallas Wings vs Sparks - SportzX Live
 https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50056" tvg-name="Lynx vs Portland Fire" tvg-logo="https://img.sofascore.com/api/v1/team/3440/image" group-title="WNBA",Lynx vs Portland Fire - SportzX Live
+#EXTINF:-1 tvg-id="50056" tvg-name="Dream vs Chicago Sky" tvg-logo="https://img.sofascore.com/api/v1/team/35545/image" group-title="WNBA",Dream vs Chicago Sky - SportzX Live
 https://edgestream3.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50057" tvg-name="Valkyries vs Washington Mystics" tvg-logo="https://img.sofascore.com/api/v1/team/1041936/image" group-title="WNBA",Valkyries vs Washington Mystics - SportzX Live
+#EXTINF:-1 tvg-id="50057" tvg-name="Mercury vs Connecticut Sun" tvg-logo="https://img.sofascore.com/api/v1/team/3444/image" group-title="WNBA",Mercury vs Connecticut Sun - SportzX WNBA
+https://chatgpt.hereisman.net/playlist/53523/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50057" tvg-name="Mercury vs Connecticut Sun" tvg-logo="https://img.sofascore.com/api/v1/team/3444/image" group-title="WNBA",Mercury vs Connecticut Sun - SportzX Live
 https://edgestream1.pro/hls/yjtzafghvjza74.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50060" tvg-name="West Indies vs New Zealand" tvg-logo="https://img.sofascore.com/api/v1/team/187760/image" group-title="Cricket",West Indies vs New Zealand - WILLOW FHD MPD
@@ -341,239 +353,18 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ly2lruzgx2/out/v1
 #KODIPROP:inputstream.adaptive.license_key=b01ff121603a3cddd09976f66f9feb12:952f80607b8666022fb5cc2d95df096c
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ly2lruzgx2/out/v1/d1b297d066fb4a1ab26c2f9c22a9f1a5/cenc.mpd
 
-#EXTINF:-1 tvg-id="50062" tvg-name="MAJOR LEAGUE" tvg-logo="https://img.sofascore.com/api/v1/team/485011/image" group-title="Major League Cricket",MAJOR LEAGUE - Willow HD MPD
+#EXTINF:-1 tvg-id="50062" tvg-name="MAJOR LEAGUE" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Major League Cricket",MAJOR LEAGUE - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=613080a865a801eaf441ec5bc605b5e4:8ec1b70270472910e4aca31d16d1c5ea
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16/image" group-title="FIFA World Cup",France vs England - FIFA TV FHD MPD
+#EXTINF:-1 tvg-id="50062" tvg-name="MAJOR LEAGUE" tvg-logo="https://img.sofascore.com/api/v1/team/485011/image" group-title="Major League Cricket",MAJOR LEAGUE - CRICKET FHD
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="50062" tvg-name="MAJOR LEAGUE" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Major League Cricket",MAJOR LEAGUE - WILLOW - ALT MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc
-https://cdnec02.mediaquest.com.ph/bpk-token/2ab@w544wk5y111knxfbv2itg33nvw2xxxv0wx4e31ca/bpk-tv/fifa_ppv1/default/index.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="FIFA World Cup",France vs England - FOX ONE - AQ MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="FIFA World Cup",France vs England - TSN SPORTS FHD
-https://chatgpt.hereisman.net/playlist/53497/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mcoywh1678355150.png" group-title="FIFA World Cup",France vs England - BBC SPORTS HD
-https://chatgpt.hereisman.net/playlist/53498/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd" group-title="FIFA World Cup",France vs England - ISCREEN BD FHD
-https://hjkpoi-mnbvcxza.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f76d3e5e41ea557843549782f9a/main.m3u8?|referer=https://iscreen.com.bd/
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - GLOBOSP BR
-https://live-ancdn-09.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCRCIsImRvbWFpbiI6ImxpdmUtYW5jZG4tMDkudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg0NDMwMTcyLCJpYXQiOjE3ODQ0MDg1NzIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiODhlMzUxNjctNjRmNS00OWE3LTk4ZTktMWYzY2M2ZGZlODUxIiwicGF0aCI6Ii9saXZlL2YobGwpL2dsb2JvLWZpZmEyNi9wbGF5bGlzdC5tM3U4In0.LvcZAWTZ5DGJ_RXi9l6wF7znSt_2ud5W3W5hglpcSgfVEglsDQ2npEj3CqzHzyd-qpVTf1iuxPIDfI6EZ4D36gcTwLlhYT79W2M5HRCSuZPjQlj27s7ThIXpTY3gHZdRoxBfCG85noRwdjjWJsUgRC9GGRUABD__xB2xN1Bkf2PyVC49OdYtYHWQOKt5qWpPmsLQrEe2zmPNRRekxGKzcmga0-VZ2KK8BAy7a6l-0q_yRsEZjHSShn-rfi1gN9vxva8xeLipNk8_EsxU8zCS_TYD5SXIsrZVJDRFTDJjmiwB_6F5c8BNPghJK1oAwKVfW2ob8SnaZ2zJE_r3uF7Sqg/live/f(ll)/globo-fifa26/playlist.m3u8
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - CAZE TV HD
-https://rdcstream.life/live/cazetv/index.m3u8?|referer=https://playerembed.xyz/
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - MUNIDAL HD
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - FUSSBALL TV FHD
-https://cp11.adabmedia.com/hls2/sport.m3u8
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - QAZ SPORTS HD
-http://stream.mcquack.net/72/index.m3u8
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="FIFA World Cup",France vs England - TSN4 SPORTS FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="FIFA World Cup",France vs England - TSN SPORTS FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/syptrs1458515379.png" group-title="FIFA World Cup",France vs England - RTE SPORTS FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/665e72ff-49e9-4b31-888b-b3aacb6e6def:BRU/manifest.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - FAST SERVER
-https://pulltx.cqsycw.com/live/hd-en-6MvYMRTGwLKvBTez2a.m3u8?txSecret=c1540393321d5640a37e3e15c10858e8&txTime=6A5C0B10
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - FAST [NO Comment]
-https://live.vivo200.com/live/sd-1-4459814.m3u8?txSecret=53688b933ac4ba54c6603e617023e2ee&txTime=6A5BF668|referer=https://player.online909.com/
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - CT SPORTS FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - beIN MAX HD
-https://wez.khaialogy.store/dream1.m3u8
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="FIFA World Cup",France vs England - TELEMUNDO HD
-https://edgestream2.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - TVE La 1 FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - D Sports FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://duckduckgo.com/i/dab0d6887915781c.png" group-title="FIFA World Cup",France vs England - CAZE TV FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - FOX ONE HDR MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=48afc63fa0ecccc3a71f46d3fda20249:c7cd8801e238a263fe4349a95682b83b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgmw19qjux/out/v1/c6ac7e638a9d4998891ae85aba377c59/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="FIFA World Cup",France vs England - FOX SPORTS 4K MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - FOX ONE HD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e537aa6d576e355c271b22caeaca:d5869f84abacfe205c524c59e62d3803
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bc3y4t1rpk/out/v1/df2b71a9487a4c369c9742e7ea62a2e2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - NPO1 DUTCH FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7
-https://npo-fsly-2.cdn.streamgate.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODQ0OTQ2MTYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiNWYzODQxYyJ9.0rcUL3pxSAavnBHmNmzBP-GjXhHJEjLQKB09o-0Ev-U/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - M6 FRANCE (USA) MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a7997b47edc3124a6c51651fea26470:90154d0a7f4f5ba772911bb72c76c86e
-https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00_N1/dash-short-hd.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="FIFA World Cup",France vs England - TSN SPORTS FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - FOX ONE FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - FOX 4K [ALT] MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="FIFA World Cup",France vs England - TSN SPORTS [ALT] MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - FOX ONE [ALT] MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="FIFA World Cup",France vs England - TELEMUNDO [USA] MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - FUSSBALL TV 4K MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - FUSSBALL TV2 4K MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - IRIB 4K
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="FIFA World Cup",France vs England - FOX SPORTS HD
-https://chatgpt.hereisman.net/playlist/53370/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="FIFA World Cup",France vs England - TSN SPORTS HD
-https://chatgpt.hereisman.net/playlist/53497/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - DAZN SPANISH
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - TYC SPORTS HD
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - HD SERVER ENG
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - HD SERVER AR
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - HD SERVER ES
-https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - Match Football FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
-https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - FUSSBALL 4K [GER] MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - FUSSBALL2 4K [GER] MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - FUSSBALL TV FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - FUSSBALL2 TV FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="FIFA World Cup",France vs England - TELEMUNDO [USA] MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - TSports HD
-http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=2048&q=75" group-title="FIFA World Cup",France vs England - BTV BDIX HD
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - SOMOY TV HD
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - SD SERVER [ENG]
-http://193.47.62.59/hls/XIIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - ENG SD SERVER
-http://193.47.62.51/hls/XIIIIF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - SD SERVER [SWE]
-http://193.47.62.59/hls/XIIIIFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA World Cup",France vs England - beiN SPORTS FR
-https://pul-tenm.gkykp.com/live/hd-en-1-4459814.m3u8?txSecret=911f30f17e673b13ab160ad02386c00e&txTime=6A5D2630
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - ESPANOL SD
-https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8
-
-#EXTINF:-1 tvg-id="50065" tvg-name="France vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4481/image" group-title="FIFA World Cup",France vs England - SPANISH FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa78205160ef4b5c972d5e815a8fe6e4:338b545591e45469e71dae3a8fb8dbb0
-https://teleamazonasb.cdn.mdstrm.com/live-stream-mp/dfzu2jckcs3he/a5e7a2777ea24b8ca49b326b536f87b2/6a0cd90eb3852427fcded197/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=613080a865a801eaf441ec5bc605b5e4:8ec1b70270472910e4aca31d16d1c5ea
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd
 
 #EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/4698/image" group-title="FIFA World Cup",Spain vs Argentina - FOX ONE - AQ MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -802,121 +593,90 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manip
 #KODIPROP:inputstream.adaptive.license_key=357ccea271387c3288cc8c2301f13d35:6d99d34e858d22ab5954d8df8622106a
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nsuvwbv5a0/out/v1/745ffbb961054110852973877632f4e9/f7dd18d6-fb4d-4a8a-80fb-0cea8594021e-cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&referer=primevideo.com&origin=primevideo.com
 
-#EXTINF:-1 tvg-id="50073" tvg-name="Guadalajara vs CD Toluca" tvg-logo="https://img.sofascore.com/api/v1/team/1938/image" group-title="Liga MX",Guadalajara vs CD Toluca - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-
 #EXTINF:-1 tvg-id="50074" tvg-name="Querétaro vs Club América" tvg-logo="https://img.sofascore.com/api/v1/team/1951/image" group-title="Liga MX",Querétaro vs Club América - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://pulltx.cqsycw.com/live/sd-6MwdpntpZpAgTFRg8N.m3u8?txSecret=3bbed632a59ba888e5c26f657cf094e1&txTime=6A5C6AB0
 
-#EXTINF:-1 tvg-id="50075" tvg-name="Guardians vs Pittsburgh Pirates" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Pittsburgh Pirates - SportzX MLB
+#EXTINF:-1 tvg-id="50074" tvg-name="Querétaro vs Club América" tvg-logo="https://img.sofascore.com/api/v1/team/1951/image" group-title="Liga MX",Querétaro vs Club América - TUDN MX HD
+https://ce3.vtoc.live/vdc10012139/LhjE3_w01mVxvGX-mSun7Q/2c340b92cab76c421982ce68fbf35f/1784437901/playlist.m3u8
+
+#EXTINF:-1 tvg-id="50074" tvg-name="Querétaro vs Club América" tvg-logo="https://img.sofascore.com/api/v1/team/1951/image" group-title="Liga MX",Querétaro vs Club América - LOW QUALITY
+https://hls.streamhub.media/hls/thesport-api-19be5892a432b8ce226c/master.m3u8
+
+#EXTINF:-1 tvg-id="50075" tvg-name="Blue Jays vs White Sox" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Blue Jays vs White Sox - SportzX MLB
 https://chatgpt.hereisman.net/playlist/53475/load-playlist?|Referer=https://gooz.aapmains.net/
 
-#EXTINF:-1 tvg-id="50075" tvg-name="Guardians vs Pittsburgh Pirates" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Pittsburgh Pirates - SportzX Live
+#EXTINF:-1 tvg-id="50075" tvg-name="Blue Jays vs White Sox" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Blue Jays vs White Sox - SportzX Live
 https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50076" tvg-name="Chicago Cubs vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3627/image" group-title="MLB",Chicago Cubs vs Minnesota Twins - SportzX MLB
+#EXTINF:-1 tvg-id="50076" tvg-name="Yankees vs Dodgers" tvg-logo="https://img.sofascore.com/api/v1/team/3654/image" group-title="MLB",Yankees vs Dodgers - SportzX MLB
 https://chatgpt.hereisman.net/playlist/53477/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-id="50076" tvg-name="Chicago Cubs vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3627/image" group-title="MLB",Chicago Cubs vs Minnesota Twins - MLB LIVE HD
+#EXTINF:-1 tvg-id="50076" tvg-name="Yankees vs Dodgers" tvg-logo="https://img.sofascore.com/api/v1/team/3654/image" group-title="MLB",Yankees vs Dodgers - MLB LIVE HD
 https://chatgpt.hereisman.net/playlist/53478/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-id="50076" tvg-name="Chicago Cubs vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3627/image" group-title="MLB",Chicago Cubs vs Minnesota Twins - SportzX Live
+#EXTINF:-1 tvg-id="50076" tvg-name="Yankees vs Dodgers" tvg-logo="https://img.sofascore.com/api/v1/team/3654/image" group-title="MLB",Yankees vs Dodgers - SportzX Live
 https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50077" tvg-name="Blue Jays vs White Sox" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Blue Jays vs White Sox - SportzX MLB
+#EXTINF:-1 tvg-id="50077" tvg-name="Braves vs Texas Rangers" tvg-logo="https://img.sofascore.com/api/v1/team/3656/image" group-title="MLB",Braves vs Texas Rangers - SportzX MLB
 https://chatgpt.hereisman.net/playlist/53473/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-id="50077" tvg-name="Blue Jays vs White Sox" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Blue Jays vs White Sox - SportzX Live
+#EXTINF:-1 tvg-id="50077" tvg-name="Braves vs Texas Rangers" tvg-logo="https://img.sofascore.com/api/v1/team/3656/image" group-title="MLB",Braves vs Texas Rangers - SportzX Live
 https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50078" tvg-name="Rockies vs Cincinnati Reds" tvg-logo="https://img.sofascore.com/api/v1/team/3628/image" group-title="MLB",Rockies vs Cincinnati Reds - SportzX Live
+#EXTINF:-1 tvg-id="50078" tvg-name="Red Sox vs Tampa Bay Rays" tvg-logo="https://img.sofascore.com/api/v1/team/3646/image" group-title="MLB",Red Sox vs Tampa Bay Rays - SportzX Live
 https://edgestream2.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50079" tvg-name="Phillies vs New York Mets" tvg-logo="https://img.sofascore.com/api/v1/team/3635/image" group-title="MLB",Phillies vs New York Mets - SportzX Live
 https://edgestream2.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50080" tvg-name="Diamondbacks vs Cardinals" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Diamondbacks vs Cardinals - SportzX MLB
+#EXTINF:-1 tvg-id="50080" tvg-name="Guardians vs Pittsburgh Pirates" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Pittsburgh Pirates - SportzX MLB
 https://chatgpt.hereisman.net/playlist/53492/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-id="50080" tvg-name="Diamondbacks vs Cardinals" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Diamondbacks vs Cardinals - SportzX Live
+#EXTINF:-1 tvg-id="50080" tvg-name="Guardians vs Pittsburgh Pirates" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Pittsburgh Pirates - SportzX Live
 https://edgestream1.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50081" tvg-name="Atlanta Braves vs Texas Rangers" tvg-logo="https://img.sofascore.com/api/v1/team/3656/image" group-title="MLB",Atlanta Braves vs Texas Rangers - SportzX MLB
+#EXTINF:-1 tvg-id="50081" tvg-name="Astros vs Baltimore Orioles" tvg-logo="https://img.sofascore.com/api/v1/team/3655/image" group-title="MLB",Astros vs Baltimore Orioles - SportzX MLB
 https://chatgpt.hereisman.net/playlist/53474/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-id="50081" tvg-name="Atlanta Braves vs Texas Rangers" tvg-logo="https://img.sofascore.com/api/v1/team/3656/image" group-title="MLB",Atlanta Braves vs Texas Rangers - SportzX Live
+#EXTINF:-1 tvg-id="50081" tvg-name="Astros vs Baltimore Orioles" tvg-logo="https://img.sofascore.com/api/v1/team/3655/image" group-title="MLB",Astros vs Baltimore Orioles - SportzX Live
 https://edgestream3.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50082" tvg-name="Red Sox vs Tampa Bay Rays" tvg-logo="https://img.sofascore.com/api/v1/team/3646/image" group-title="MLB",Red Sox vs Tampa Bay Rays - SportzX MLB
+#EXTINF:-1 tvg-id="50082" tvg-name="Royals vs Padres" tvg-logo="https://img.sofascore.com/api/v1/team/3651/image" group-title="MLB",Royals vs Padres - SportzX MLB
 https://chatgpt.hereisman.net/playlist/53488/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-id="50082" tvg-name="Red Sox vs Tampa Bay Rays" tvg-logo="https://img.sofascore.com/api/v1/team/3646/image" group-title="MLB",Red Sox vs Tampa Bay Rays - SportzX Live
+#EXTINF:-1 tvg-id="50082" tvg-name="Royals vs Padres" tvg-logo="https://img.sofascore.com/api/v1/team/3651/image" group-title="MLB",Royals vs Padres - SportzX Live
 https://edgestream1.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50083" tvg-name="Royals vs San Diego Padres" tvg-logo="https://img.sofascore.com/api/v1/team/3651/image" group-title="MLB",Royals vs San Diego Padres - SportzX MLB
+#EXTINF:-1 tvg-id="50083" tvg-name="Brewers vs Miami Marlins" tvg-logo="https://img.sofascore.com/api/v1/team/3630/image" group-title="MLB",Brewers vs Miami Marlins - SportzX MLB
 https://chatgpt.hereisman.net/playlist/53495/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-id="50083" tvg-name="Royals vs San Diego Padres" tvg-logo="https://img.sofascore.com/api/v1/team/3651/image" group-title="MLB",Royals vs San Diego Padres - SportzX Live
+#EXTINF:-1 tvg-id="50083" tvg-name="Brewers vs Miami Marlins" tvg-logo="https://img.sofascore.com/api/v1/team/3630/image" group-title="MLB",Brewers vs Miami Marlins - SportzX Live
 https://edgestream3.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50084" tvg-name="Astros vs Baltimore Orioles" tvg-logo="https://img.sofascore.com/api/v1/team/3655/image" group-title="MLB",Astros vs Baltimore Orioles - SportzX MLB
-https://chatgpt.hereisman.net/playlist/53491/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50084" tvg-name="Astros vs Baltimore Orioles" tvg-logo="https://img.sofascore.com/api/v1/team/3655/image" group-title="MLB",Astros vs Baltimore Orioles - SportzX Live
+#EXTINF:-1 tvg-id="50084" tvg-name="Chicago Cubs vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3627/image" group-title="MLB",Chicago Cubs vs Minnesota Twins - SportzX Live
 https://edgestream1.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50086" tvg-name="Orlando Magic vs Boston Celtics" tvg-logo="https://img.sofascore.com/api/v1/team/3437/image" group-title="NBA",Orlando Magic vs Boston Celtics - SportzX MLB
-https://chatgpt.hereisman.net/playlist/53472/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50086" tvg-name="Orlando Magic vs Boston Celtics" tvg-logo="https://img.sofascore.com/api/v1/team/3437/image" group-title="NBA",Orlando Magic vs Boston Celtics - SportzX Live
-https://edgestream1.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50087" tvg-name="Bucks vs Philadelphia 76ers" tvg-logo="https://img.sofascore.com/api/v1/team/3410/image" group-title="NBA",Bucks vs Philadelphia 76ers - SportzX NBA
-https://chatgpt.hereisman.net/playlist/53501/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50087" tvg-name="Bucks vs Philadelphia 76ers" tvg-logo="https://img.sofascore.com/api/v1/team/3410/image" group-title="NBA",Bucks vs Philadelphia 76ers - SportzX Live
-https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50088" tvg-name="Wizards vs Atlanta Hawks" tvg-logo="https://img.sofascore.com/api/v1/team/3431/image" group-title="NBA",Wizards vs Atlanta Hawks - SportzX Live
-https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50089" tvg-name="Memphis Grizzlies vs Houston Rockets" tvg-logo="https://img.sofascore.com/api/v1/team/3415/image" group-title="NBA",Memphis Grizzlies vs Houston Rockets - SportzX NBA
-https://chatgpt.hereisman.net/playlist/53505/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50089" tvg-name="Memphis Grizzlies vs Houston Rockets" tvg-logo="https://img.sofascore.com/api/v1/team/3415/image" group-title="NBA",Memphis Grizzlies vs Houston Rockets - SportzX Live
-https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50090" tvg-name="Lakers vs Warriors" tvg-logo="https://img.sofascore.com/api/v1/team/3427/image" group-title="NBA",Lakers vs Warriors - SportzX Live
-https://edgestream1.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50091" tvg-name="Pumas UNAM vs CF Pachuca" tvg-logo="https://img.sofascore.com/api/v1/team/1933/image" group-title="Liga MX",Pumas UNAM vs CF Pachuca - CANAL 5 MPD
+#EXTINF:-1 tvg-id="50085" tvg-name="Richmond Tigers vs Hawthorn Hawks" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="AFL",Richmond Tigers vs Hawthorn Hawks - FOX SPORTS 2 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="50092" tvg-name="Monterrey vs Santos Laguna" tvg-logo="https://img.sofascore.com/api/v1/team/1932/image" group-title="Liga MX",Monterrey vs Santos Laguna - CANAL 5 MPD
+#EXTINF:-1 tvg-id="50086" tvg-name="Suns vs Western Bulldogs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="AFL",Suns vs Western Bulldogs - TNT SPORTS
+https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
+
+#EXTINF:-1 tvg-id="50087" tvg-name="Bombers vs GWS Giants" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="AFL",Bombers vs GWS Giants - FOX SPORTS FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="50093" tvg-name="Argentina vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4225/image" group-title="Rugby",Argentina vs England - ITV SPORTS FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="50087" tvg-name="Bombers vs GWS Giants" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="AFL",Bombers vs GWS Giants - TNT SPORTS
+https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
 
-#EXTINF:-1 tvg-id="50093" tvg-name="Argentina vs England" tvg-logo="https://img.sofascore.com/api/v1/team/4225/image" group-title="Rugby",Argentina vs England - HD SERVER
+#EXTINF:-1 tvg-id="50088" tvg-name="Titans vs Manly Sea Eagles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="NRL Rugby",Titans vs Manly Sea Eagles - HD SERVER
 https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
 
-#EXTINF:-1 tvg-id="50094" tvg-name="Brewers vs Miami Marlins" tvg-logo="https://img.sofascore.com/api/v1/team/3630/image" group-title="MLB",Brewers vs Miami Marlins - SportzX MLB
-https://chatgpt.hereisman.net/playlist/53486/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50094" tvg-name="Brewers vs Miami Marlins" tvg-logo="https://img.sofascore.com/api/v1/team/3630/image" group-title="MLB",Brewers vs Miami Marlins - SportzX Live
-https://edgestream2.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50103" tvg-name="Calgary vs Montreal" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="CFL",Calgary vs Montreal - TSN SPORTS MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="50089" tvg-name="Dolphins vs Cowboys" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="NRL Rugby",Dolphins vs Cowboys - HD SERVER
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="TNT Sports",TNT Sports 1 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
