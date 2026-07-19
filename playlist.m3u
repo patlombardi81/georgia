@@ -254,6 +254,9 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Refe
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
+#EXTINF:-1 tvg-id="50012" tvg-name="Toronto Raptors" tvg-logo="https://img.sofascore.com/api/v1/team/3433/image" group-title="NBA",Toronto Raptors - SportzX NBA
+https://chatgpt.hereisman.net/playlist/53572/load-playlist?|Referer=https://gooz.aapmains.net
+
 #EXTINF:-1 tvg-id="50012" tvg-name="Toronto Raptors" tvg-logo="https://img.sofascore.com/api/v1/team/3433/image" group-title="NBA",Toronto Raptors - SportzX Live
 https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 
@@ -280,14 +283,26 @@ https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_h
 #KODIPROP:inputstream.adaptive.license_key=e369d9ab101d4b60ba13c0384f503528:041e35e31381521b3398af5c6dd99414
 https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
 
+#EXTINF:-1 tvg-id="50032" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3645/image" group-title="MLB",Washington Nationals - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53564/load-playlist?|Referer=https://gooz.aapmains.net/
+
 #EXTINF:-1 tvg-id="50032" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3645/image" group-title="MLB",Washington Nationals - SportzX LIVE
 https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50033" tvg-name="Detroit Tigers" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",Detroit Tigers - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53567/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50033" tvg-name="Detroit Tigers" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",Detroit Tigers - SportzX Live
 https://edgestream2.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
+#EXTINF:-1 tvg-id="50034" tvg-name="Arizona Diamondbacks" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Arizona Diamondbacks - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53568/load-playlist?|Referer=https://gooz.aapmains.net
+
 #EXTINF:-1 tvg-id="50034" tvg-name="Arizona Diamondbacks" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Arizona Diamondbacks - SportzX Live
 https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50052" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Seattle Mariners - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53570/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50052" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Seattle Mariners - SportzX Live
 https://edgestream3.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -305,11 +320,8 @@ https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.o
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50055" tvg-name="Dallas Wings vs Sparks" tvg-logo="https://img.sofascore.com/api/v1/team/3450/image" group-title="WNBA",Dallas Wings vs Sparks - SportzX WNBA
-https://chatgpt.hereisman.net/playlist/53541/load-playlist?|Referer=https://gooz.aapmains.net/
-
-#EXTINF:-1 tvg-id="50055" tvg-name="Dallas Wings vs Sparks" tvg-logo="https://img.sofascore.com/api/v1/team/3450/image" group-title="WNBA",Dallas Wings vs Sparks - SportzX Live
-https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 tvg-id="50056" tvg-name="Dream vs Chicago Sky" tvg-logo="https://img.sofascore.com/api/v1/team/35545/image" group-title="WNBA",Dream vs Chicago Sky - SportzX WNBA
+https://chatgpt.hereisman.net/playlist/53562/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50056" tvg-name="Dream vs Chicago Sky" tvg-logo="https://img.sofascore.com/api/v1/team/35545/image" group-title="WNBA",Dream vs Chicago Sky - SportzX Live
 https://edgestream2.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -365,38 +377,33 @@ https://chatgpt.hereisman.net/playlist/53550/load-playlist?|Referer=https://gooz
 #EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="FIFA World Cup",Spain vs Argentina - Fox Sports UHD [US VPN]
 https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQxODc7YWNsPS8qO3dzaWQ9ZThkZWM0NWJhZDNjN2Y3ODNlYWMxNjYxNDk2NjQyOTVfZm94ZHRjX2FuZHJvaWR0dl9lbi1VUztobWFjPW41QjV5bE90dDdFVkhTei9aVEU4QmlxcjFxWmNmTEJWN1VXK3BLSkhsMWs9/live/uhd-1-b-uw2/index.m3u8
 
-#EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/4698/image" group-title="FIFA World Cup",Spain vs Argentina - UNIFY TV FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
-https://anak-fifuck.donasi-dulu-colong-kemudian.workers.dev/Content/DASH/Live/channel(fifa1)/master.mpd?hdntl=st=1784480346~exp=1784570346~acl=/Content/DASH/Live/channel(fifa1)/*~id=feeywxgMAObNR5wIftrBt2PkP0I4nspAy0b2-z_bEQ8S~hmac=d5a4dad519e21881367b63417ca801a5007c3d726bbbe15b14825b65787c2c89
+#EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/4698/image" group-title="FIFA World Cup",Spain vs Argentina - SportzX Live
+https://live1.streambylivepulse.com/live/channel1/playlist.m3u8?wsSecret=d279c6097dbca555ed36b0233713642d&wsABSTime=1784182720&wsSession=436e9186b699ddc3ed613af6-178448347186941&wsIPSercert=4a098db2100d1784a4dca047bd3f5e4e&wsBindIP=2&wsserid=1168201446953502087
 
-#EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/4698/image" group-title="FIFA World Cup",Spain vs Argentina - KAN 11 FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=23fad97468a1338f973d192646df2d19:27fd56ffd7d70ec6aa9252e713c21190
-https://n-121-7.il.cdn-redge.media/livedash/oil/freetv/live/kan11/live.livx?manifest.mpd
+#EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd" group-title="FIFA World Cup",Spain vs Argentina - ISCREEN BD FHD
+https://lkjhgf-zxcvbnmq.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f7a80c28515fc600b375de3e273/main.m3u8?|referer=https://iscreen.com.bd/
+
+#EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/4698/image" group-title="FIFA World Cup",Spain vs Argentina - FAST SERVER FR
+https://pulltx.cqsycw.com/live/hd-en-6MvYMRTGwJ8SJyq4sg.m3u8?txSecret=213fa137711e1f1a0acd35aa03cea155&txTime=6A5D4598
+
+#EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/4698/image" group-title="FIFA World Cup",Spain vs Argentina - beIN MAX HD
+https://cua.atharican.shop/menze1.m3u8
 
 #EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="FIFA World Cup",Spain vs Argentina - FOX ONE - AQ MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/4698/image" group-title="FIFA World Cup",Spain vs Argentina - UNIFY TV FHD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
+https://anak-fifuck.donasi-dulu-colong-kemudian.workers.dev/Content/DASH/Live/channel(fifa1)/master.mpd?hdntl=st=1784480346~exp=1784570346~acl=/Content/DASH/Live/channel(fifa1)/*~id=feeywxgMAObNR5wIftrBt2PkP0I4nspAy0b2-z_bEQ8S~hmac=d5a4dad519e21881367b63417ca801a5007c3d726bbbe15b14825b65787c2c89
+
 #EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/4698/image" group-title="FIFA World Cup",Spain vs Argentina - GLOBOSP BR
 https://live-ancdn-06.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCRCIsImRvbWFpbiI6ImxpdmUtYW5jZG4tMDYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg0NTA4NjEyLCJpYXQiOjE3ODQ0ODcwMTIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYmE2Mzc2NDAtN2I0ZS00ZTBmLTkwYjktMzI1ZDllM2ZiYTMwIiwicGF0aCI6Ii9saXZlL2YobGwpL2dsb2JvLWZpZmEyNi9wbGF5bGlzdC5tM3U4In0.rmVpOmu-gGUslWqy0NTr34CWJq8RTvcci-oEqEdzNBZVBz7sF9YZNR-ebxS4IWZaCR68SyiscB42dMquOepK4PW6-sC8DkmJxG9edkqUslEA8KG3vRm-82XTcYn8cVz_9LHBo3EOrRNuojS0_Bji-dmYrVjYYWJmtqkWAYmdjvxFJlnKYimu025y_PAMUmZtf_t_4zs8TTXQ3WlVFOh3krV4yM9_BOGmXBS5lBDFO1-at1nysGtjXqQ33FlWWa8wMWd8OJnfFIZcq8eKUjY56oJji_09VpUMeqkLKw-yn-IIx5MGpPPJr2C7NUSAKj50Ur4cskJb3us2cy2Q_QR5pA/live/f(ll)/globo-fifa26/playlist.m3u8
 
-#EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/4698/image" group-title="FIFA World Cup",Spain vs Argentina - SportzX Live
-https://live1.streambylivepulse.com/live/channel1/playlist.m3u8?wsSecret=d279c6097dbca555ed36b0233713642d&wsABSTime=1784182720&wsSession=436e9186b699ddc3ed613af6-178448347186941&wsIPSercert=4a098db2100d1784a4dca047bd3f5e4e&wsBindIP=2&wsserid=1168201446953502087
-
-#EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd" group-title="FIFA World Cup",Spain vs Argentina - ISCREEN BD FHD
-https://lkjhgf-zxcvbnmq.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f7a7fea1b1ea557843549782f9b/main.m3u8|referer=https://iscreen.com.bd/
-
-#EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/4698/image" group-title="FIFA World Cup",Spain vs Argentina - FAST SERVER FR
-https://pulltx.cqsycw.com/live/hd-en-6MvYMRTGwJ8SJyq4sg.m3u8?txSecret=213fa137711e1f1a0acd35aa03cea155&txTime=6A5D4598
-
 #EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="FIFA World Cup",Spain vs Argentina - TSN SPORTS HD
 https://chatgpt.hereisman.net/playlist/53540/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/4698/image" group-title="FIFA World Cup",Spain vs Argentina - beIN MAX HD
-https://cua.atharican.shop/menze1.m3u8
 
 #EXTINF:-1 tvg-id="50067" tvg-name="Spain vs Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/4698/image" group-title="FIFA World Cup",Spain vs Argentina - CCTV SPORTS HD
 https://pullsgp.yyzb456.top/live/stream-525132_lhd.m3u8
