@@ -280,28 +280,8 @@ https://edgestream3.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online
 #EXTINF:-1 tvg-id="50033" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3628/image" group-title="MLB",Washington Nationals - SportzX Live
 https://edgestream1.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50034" tvg-name="Arizona Diamondbacks" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Arizona Diamondbacks - SportzX Live
-https://edgestream2.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50052" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Seattle Mariners - SportzX Live
+#EXTINF:-1 tvg-id="50052" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Seattle Mariners - SportzX Live
 https://edgestream2.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50053" tvg-name="St. Louis Cardinals" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",St. Louis Cardinals - SportzX Live
-https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50055" tvg-name="Dallas Wings vs Liberty" tvg-logo="https://img.sofascore.com/api/v1/team/3450/image" group-title="WNBA",Dallas Wings vs Liberty - SportzX Live
-https://edgestream3.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50056" tvg-name="Toronto Tempo vs Aces" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="WNBA",Toronto Tempo vs Aces - TSN SPORTS MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50056" tvg-name="Toronto Tempo vs Aces" tvg-logo="https://img.sofascore.com/api/v1/team/1166445/image" group-title="WNBA",Toronto Tempo vs Aces - SportzX Live
-https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50057" tvg-name="Valkyries vs Washington Mystics" tvg-logo="https://img.sofascore.com/api/v1/team/1041936/image" group-title="WNBA",Valkyries vs Washington Mystics - SportzX Live
-https://edgestream1.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50058" tvg-name="Seattle Storm vs Minnesota Lynx" tvg-logo="https://img.sofascore.com/api/v1/team/3448/image" group-title="WNBA",Seattle Storm vs Minnesota Lynx - SportzX Live
 https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -360,16 +340,16 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #EXTINF:-1 tvg-id="50075" tvg-name="Guardians vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Minnesota Twins - SportzX Live
 https://edgestream2.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50076" tvg-name="Yankees vs Pittsburgh Pirates" tvg-logo="https://img.sofascore.com/api/v1/team/3654/image" group-title="MLB",Yankees vs Pittsburgh Pirates - SportzX Live
+#EXTINF:-1 tvg-id="50076" tvg-name="Philadelphia Phillies vs Dodgers" tvg-logo="https://img.sofascore.com/api/v1/team/3635/image" group-title="MLB",Philadelphia Phillies vs Dodgers - SportzX Live
 https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50077" tvg-name="Blue Jays vs Tampa Bay Rays" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Blue Jays vs Tampa Bay Rays - SportzX Live
+#EXTINF:-1 tvg-id="50077" tvg-name="Yankees vs Pittsburgh Pirates" tvg-logo="https://img.sofascore.com/api/v1/team/3654/image" group-title="MLB",Yankees vs Pittsburgh Pirates - SportzX Live
 https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50078" tvg-name="Red Sox vs Baltimore Orioles" tvg-logo="https://img.sofascore.com/api/v1/team/3646/image" group-title="MLB",Red Sox vs Baltimore Orioles - SportzX Live
+#EXTINF:-1 tvg-id="50078" tvg-name="Toronto Blue Jays vs Rays" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Toronto Blue Jays vs Rays - SportzX Live
 https://edgestream1.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50079" tvg-name="Philadelphia Phillies vs Dodgers" tvg-logo="https://img.sofascore.com/api/v1/team/3635/image" group-title="MLB",Philadelphia Phillies vs Dodgers - SportzX Live
+#EXTINF:-1 tvg-id="50079" tvg-name="Red Sox vs Baltimore Orioles" tvg-logo="https://img.sofascore.com/api/v1/team/3646/image" group-title="MLB",Red Sox vs Baltimore Orioles - SportzX Live
 https://edgestream2.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50080" tvg-name="Atlanta Braves vs Padres" tvg-logo="https://img.sofascore.com/api/v1/team/3656/image" group-title="MLB",Atlanta Braves vs Padres - SportzX Live
@@ -386,12 +366,6 @@ https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.o
 
 #EXTINF:-1 tvg-id="50084" tvg-name="Texas Rangers vs White Sox" tvg-logo="https://img.sofascore.com/api/v1/team/3647/image" group-title="MLB",Texas Rangers vs White Sox - SportzX Live
 https://edgestream1.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50086" tvg-name="Sporting CP vs Strasbourg" tvg-logo="https://img.sofascore.com/api/v1/team/3001/image" group-title="Club Friendly",Sporting CP vs Strasbourg - SportzX Live
-https://pul-tenm.gkykp.com/live/sd-1-4590794.m3u8?txSecret=98f58550e6f67a06798a5a814c1e53d2&txTime=6A5FC048
-
-#EXTINF:-1 tvg-id="50086" tvg-name="Sporting CP vs Strasbourg" tvg-logo="https://img.sofascore.com/api/v1/team/3001/image" group-title="Club Friendly",Sporting CP vs Strasbourg - LOW SERVER
-http://193.47.62.41/hls/UUUUZQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="TNT Sports",TNT Sports 1 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
