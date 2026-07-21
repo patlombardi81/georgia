@@ -339,11 +339,30 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1
 #KODIPROP:inputstream.adaptive.license_key=70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd
 
-#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377172/image" group-title="The Hundred",Hundred MEN - WILLOW FHD
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred MEN - WILLOW FHD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=247001b170f0ef5b46c40276f6435a82:30a61d7051926d8b63ae81e8b1502567
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3r3pos4qag/out/v1/491e4ff7bf7a4098b5481b2c590271e0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377172/image" group-title="The Hundred",Hundred MEN - CRICKET FHD
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377172/image" group-title="The Hundred",Hundred MEN - BBC SPORTS
+https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8
+
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred MEN - WILLOW - ALT MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=247001b170f0ef5b46c40276f6435a82:30a61d7051926d8b63ae81e8b1502567
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3r3pos4qag/out/v1/491e4ff7bf7a4098b5481b2c590271e0/cenc.mpd
+
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377172/image" group-title="The Hundred",Hundred MEN - TAPMAD FHD
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
+
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="The Hundred",Hundred MEN - SKY SPORT
+https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
+
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377172/image" group-title="The Hundred",Hundred MEN - LOW SERVER
+http://193.47.62.44/hls/NHHHQQq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred WOMEN - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -406,14 +425,26 @@ http://193.47.62.44/hls/NHHH.m3u8?|referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-id="50086" tvg-name="Fenerbahçe vs Górnik Zabrze" tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="UCL",Fenerbahçe vs Górnik Zabrze - SportzX Live
 https://live.vivo200.com/live/sd-1-4556528.m3u8?txSecret=a4b53d1e18346bd1f7131c979fbe6c8b&txTime=6A5FACA8|referer=https://player.online909.com/
 
+#EXTINF:-1 tvg-id="50086" tvg-name="Fenerbahçe vs Górnik Zabrze" tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="UCL",Fenerbahçe vs Górnik Zabrze - SD SERVER
+http://193.47.62.50/hls/UAAA.m3u8?|referer=http://www.fawanews.sc/
+
 #EXTINF:-1 tvg-id="50087" tvg-name="FC Thun vs Dinamo Zagreb" tvg-logo="https://img.sofascore.com/api/v1/team/2454/image" group-title="UCL",FC Thun vs Dinamo Zagreb - SportzX Live
 https://live.vivo200.com/live/sd-1-4556532.m3u8?txSecret=3da262ed4be0155c76d7bc8e4866d778&txTime=6A5FAD03|referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-id="50087" tvg-name="FC Thun vs Dinamo Zagreb" tvg-logo="https://img.sofascore.com/api/v1/team/2454/image" group-title="UCL",FC Thun vs Dinamo Zagreb - SD SERVER
+http://193.47.62.50/hls/UAAAQ.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50088" tvg-name="Sturm Graz vs Hearts" tvg-logo="https://img.sofascore.com/api/v1/team/2051/image" group-title="UCL",Sturm Graz vs Hearts - SportzX Live
 https://live.vivo200.com/live/sd-1-4556530.m3u8?txSecret=addc8f6e96189968278a3cd9f9fc5631&txTime=6A5FAD43|referer=https://player.online909.com/
 
+#EXTINF:-1 tvg-id="50088" tvg-name="Sturm Graz vs Hearts" tvg-logo="https://img.sofascore.com/api/v1/team/2051/image" group-title="UCL",Sturm Graz vs Hearts - SD SERVER
+http://193.47.62.53/hls/BAAA.m3u8?|referer=http://www.fawanews.sc/
+
 #EXTINF:-1 tvg-id="50089" tvg-name="Gillingham vs Millwall" tvg-logo="https://img.sofascore.com/api/v1/team/20/image" group-title="Club Friendly",Gillingham vs Millwall - SportzX Live
 https://live.vivo200.com/live/sd-1-4591032.m3u8?txSecret=1adcc3c48de22b9a8357916197137a8c&txTime=6A5FADF1|referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-id="50089" tvg-name="Gillingham vs Millwall" tvg-logo="https://img.sofascore.com/api/v1/team/20/image" group-title="Club Friendly",Gillingham vs Millwall - SD SERVER
+http://193.47.62.50/hls/DAAAQQQQQ.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50090" tvg-name="Atlético Mineiro vs Bahia" tvg-logo="https://img.sofascore.com/api/v1/team/1977/image" group-title="Brasileirão",Atlético Mineiro vs Bahia - PREMIERER BR MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
