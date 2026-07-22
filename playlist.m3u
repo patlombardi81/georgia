@@ -306,18 +306,6 @@ https://chatgpt.hereisman.net/playlist/53648/load-playlist?|Referer=https://gooz
 #EXTINF:-1 tvg-id="50034" tvg-name="St. Louis Cardinals" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",St. Louis Cardinals - SportzX Live
 https://edgestream3.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50052" tvg-name="Arizona Diamondbacks" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Arizona Diamondbacks - SportzX MLB
-https://chatgpt.hereisman.net/playlist/53650/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50052" tvg-name="Arizona Diamondbacks" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Arizona Diamondbacks - SportzX Live
-https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50053" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Seattle Mariners - SportzX MLB
-https://chatgpt.hereisman.net/playlist/53653/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50053" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Seattle Mariners - SportzX Live
-https://edgestream3.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
 #EXTINF:-1 tvg-id="50055" tvg-name="Liberty vs Chicago Sky" tvg-logo="https://img.sofascore.com/api/v1/team/3446/image" group-title="WNBA",Liberty vs Chicago Sky - SportzX Live
 https://edgestream3.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
@@ -414,12 +402,6 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="The Hundred",Hundred WOMEN - SKY SPORT
 https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 
-#EXTINF:-1 tvg-id="50074" tvg-name="CD Toluca vs Pumas UNAM" tvg-logo="https://img.sofascore.com/api/v1/team/1931/image" group-title="Liga MX",CD Toluca vs Pumas UNAM - TUDN MX HD
-https://chatgpt.hereisman.net/playlist/53622/load-playlist?|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="50074" tvg-name="CD Toluca vs Pumas UNAM" tvg-logo="https://img.sofascore.com/api/v1/team/1931/image" group-title="Liga MX",CD Toluca vs Pumas UNAM - SportzX Live
-https://pulltx.cqsycw.com/live/sd-6MwdpntpZtZeCD5WSA.m3u8?txSecret=4a46ac832fbc9884a0b80a843d5677f3&txTime=6A6063E0
-
 #EXTINF:-1 tvg-id="50075" tvg-name="Red Sox vs Baltimore Orioles" tvg-logo="https://img.sofascore.com/api/v1/team/3646/image" group-title="MLB",Red Sox vs Baltimore Orioles - SportzX Live
 https://edgestream2.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
@@ -444,11 +426,20 @@ https://edgestream2.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.on
 #EXTINF:-1 tvg-id="50082" tvg-name="Mariners vs Cincinnati Reds" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Mariners vs Cincinnati Reds - SportzX Live
 https://edgestream1.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50083" tvg-name="Angels vs Cardinals" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",Angels vs Cardinals - SportzX Live
-https://edgestream1.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
 #EXTINF:-1 tvg-id="50084" tvg-name="Guardians vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Minnesota Twins - SportzX Live
 https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50089" tvg-name="Nottingham Forest vs Blackburn Rovers" tvg-logo="https://img.sofascore.com/api/v1/team/14/image" group-title="Club Friendly",Nottingham Forest vs Blackburn Rovers - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Bologna vs Heidenheim" tvg-logo="https://img.sofascore.com/api/v1/team/2685/image" group-title="Club Friendly",Bologna vs Heidenheim - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50091" tvg-name="Kharkiv vs Schalke 04" tvg-logo="https://img.sofascore.com/api/v1/team/266889/image" group-title="Club Friendly",Kharkiv vs Schalke 04 - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50092" tvg-name="Tottenham Hotspur vs MK Dons" tvg-logo="https://img.sofascore.com/api/v1/team/33/image" group-title="Club Friendly",Tottenham Hotspur vs MK Dons - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="TNT Sports",TNT Sports 1 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
