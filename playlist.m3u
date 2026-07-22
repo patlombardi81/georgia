@@ -300,11 +300,23 @@ https://chatgpt.hereisman.net/playlist/53647/load-playlist?|Referer=https://gooz
 #EXTINF:-1 tvg-id="50033" tvg-name="San Diego Padres" tvg-logo="https://img.sofascore.com/api/v1/team/3656/image" group-title="MLB",San Diego Padres - SportzX Live
 https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50034" tvg-name="St. Louis Cardinals" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",St. Louis Cardinals - SportzX MLB
+#EXTINF:-1 tvg-id="50034" tvg-name="Chicago White Sox" tvg-logo="https://img.sofascore.com/api/v1/team/3647/image" group-title="MLB",Chicago White Sox - SportzX MLB
 https://chatgpt.hereisman.net/playlist/53648/load-playlist?|Referer=https://gooz.aapmains.net
 
-#EXTINF:-1 tvg-id="50034" tvg-name="St. Louis Cardinals" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",St. Louis Cardinals - SportzX Live
+#EXTINF:-1 tvg-id="50034" tvg-name="Chicago White Sox" tvg-logo="https://img.sofascore.com/api/v1/team/3647/image" group-title="MLB",Chicago White Sox - SportzX Live
 https://edgestream3.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50052" tvg-name="Chicago Cubs" tvg-logo="https://img.sofascore.com/api/v1/team/3627/image" group-title="MLB",Chicago Cubs - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53650/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50052" tvg-name="Chicago Cubs" tvg-logo="https://img.sofascore.com/api/v1/team/3627/image" group-title="MLB",Chicago Cubs - SportzX Live
+https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50053" tvg-name="Houston Astros" tvg-logo="https://img.sofascore.com/api/v1/team/3655/image" group-title="MLB",Houston Astros - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53653/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50053" tvg-name="Houston Astros" tvg-logo="https://img.sofascore.com/api/v1/team/3655/image" group-title="MLB",Houston Astros - SportzX Live
+https://edgestream3.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50055" tvg-name="Liberty vs Chicago Sky" tvg-logo="https://img.sofascore.com/api/v1/team/3446/image" group-title="WNBA",Liberty vs Chicago Sky - SportzX Live
 https://edgestream3.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -316,6 +328,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 
 #EXTINF:-1 tvg-id="50056" tvg-name="Washington Mystics vs Aces" tvg-logo="https://img.sofascore.com/api/v1/team/3454/image" group-title="WNBA",Washington Mystics vs Aces - SportzX Live
 https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50057" tvg-name="Indiana Fever vs Connecticut Sun" tvg-logo="https://img.sofascore.com/api/v1/team/3452/image" group-title="WNBA",Indiana Fever vs Connecticut Sun - TSN SPORTS MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50057" tvg-name="Indiana Fever vs Connecticut Sun" tvg-logo="https://img.sofascore.com/api/v1/team/3452/image" group-title="WNBA",Indiana Fever vs Connecticut Sun - SportzX Live
 https://edgestream1.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -418,6 +435,26 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="The Hundred",Hundred WOMEN - SKY SPORT
 https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 
+#EXTINF:-1 tvg-id="50073" tvg-name="Los Angeles vs Real Salt Lake" tvg-logo="https://img.sofascore.com/api/v1/team/274650/image" group-title="MLS 🇺🇸",Los Angeles vs Real Salt Lake - TSN SPORTS MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50073" tvg-name="Los Angeles vs Real Salt Lake" tvg-logo="https://img.sofascore.com/api/v1/team/274650/image" group-title="MLS 🇺🇸",Los Angeles vs Real Salt Lake - TSN3 SPORTS MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50073" tvg-name="Los Angeles vs Real Salt Lake" tvg-logo="https://img.sofascore.com/api/v1/team/274650/image" group-title="MLS 🇺🇸",Los Angeles vs Real Salt Lake - FOX SPORTS MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50073" tvg-name="Los Angeles vs Real Salt Lake" tvg-logo="https://img.sofascore.com/api/v1/team/274650/image" group-title="MLS 🇺🇸",Los Angeles vs Real Salt Lake - FOX DEPORTES MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="50075" tvg-name="Red Sox vs Baltimore Orioles" tvg-logo="https://img.sofascore.com/api/v1/team/3646/image" group-title="MLB",Red Sox vs Baltimore Orioles - SportzX Live
 https://edgestream2.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
@@ -452,13 +489,19 @@ https://pul-tenm.gkykp.com/live/sd-1-4591073.m3u8?txSecret=3068456055b8baa9d9b0b
 http://193.47.62.41/hls/ADFFFQ.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50091" tvg-name="Kharkiv vs Schalke 04" tvg-logo="https://img.sofascore.com/api/v1/team/266889/image" group-title="Club Friendly",Kharkiv vs Schalke 04 - SD SERVER
-http://193.47.62.41/hls/ADFFFQ.m3u8?|referer=http://www.fawanews.sc/
+http://193.47.62.41/hls/ADFFFQQ.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50092" tvg-name="Tottenham Hotspur vs MK Dons" tvg-logo="https://img.sofascore.com/api/v1/team/33/image" group-title="Club Friendly",Tottenham Hotspur vs MK Dons - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://live.vivo200.com/live/sd-1-4591078.m3u8?txSecret=5fdf116858c7c8833f054a78871bd3a9&txTime=6A60F69D|referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-id="50092" tvg-name="Tottenham Hotspur vs MK Dons" tvg-logo="https://img.sofascore.com/api/v1/team/33/image" group-title="Club Friendly",Tottenham Hotspur vs MK Dons - HD SERVER
+https://hls.streamhub.media/hls/thesport-api-34383b254efd4df13076/master.m3u8
+
+#EXTINF:-1 tvg-id="50092" tvg-name="Tottenham Hotspur vs MK Dons" tvg-logo="https://img.sofascore.com/api/v1/team/33/image" group-title="Club Friendly",Tottenham Hotspur vs MK Dons - SD SERVER
+http://193.47.62.49/hls/EEEEQ.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50093" tvg-name="AZ Alkmaar vs KRC Genk" tvg-logo="https://img.sofascore.com/api/v1/team/2950/image" group-title="Club Friendly",AZ Alkmaar vs KRC Genk - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://live.vivo200.com/live/sd-1-4589244.m3u8?txSecret=ddf37bc0771305f5112c65af149e1770&txTime=6A61008C|referer=https://player.online909.com/
 
 #EXTINF:-1 tvg-id="50094" tvg-name="Fiorentina vs Gubbio" tvg-logo="https://img.sofascore.com/api/v1/team/2693/image" group-title="Club Friendly",Fiorentina vs Gubbio - SportzX Live
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
@@ -480,6 +523,91 @@ https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3
 
 #EXTINF:-1 tvg-id="50100" tvg-name="Gil Vicente vs FC Porto" tvg-logo="https://img.sofascore.com/api/v1/team/3010/image" group-title="Club Friendly",Gil Vicente vs FC Porto - SportzX Live
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50101" tvg-name="Coritiba vs Palmeiras" tvg-logo="https://img.sofascore.com/api/v1/team/1982/image" group-title="Brasileirão",Coritiba vs Palmeiras - SportDigital Fussball MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50101" tvg-name="Coritiba vs Palmeiras" tvg-logo="https://img.sofascore.com/api/v1/team/1982/image" group-title="Brasileirão",Coritiba vs Palmeiras - PRIME VIDEO HD
+https://rdcstream.life/live/primevideo/index.m3u8?|referer=https://playerembed.xyz/
+
+#EXTINF:-1 tvg-id="50102" tvg-name="Chapecoense vs Flamengo" tvg-logo="https://img.sofascore.com/api/v1/team/21845/image" group-title="Brasileirão",Chapecoense vs Flamengo - PREMIERER BR MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50102" tvg-name="Chapecoense vs Flamengo" tvg-logo="https://img.sofascore.com/api/v1/team/21845/image" group-title="Brasileirão",Chapecoense vs Flamengo - GLOBO BR HD
+https://rdcstream.life/live/globorj/index.m3u8?|referer=https://playerembed.xyz/
+
+#EXTINF:-1 tvg-id="50103" tvg-name="Internacional vs Cruzeiro" tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="Brasileirão",Internacional vs Cruzeiro - Premier Sports FHD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50103" tvg-name="Internacional vs Cruzeiro" tvg-logo="https://img.sofascore.com/api/v1/team/1966/image" group-title="Brasileirão",Internacional vs Cruzeiro - PREMIERER BR MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50104" tvg-name="São Paulo vs Athletico" tvg-logo="https://img.sofascore.com/api/v1/team/1981/image" group-title="Brasileirão",São Paulo vs Athletico - PREMIERER BR MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50105" tvg-name="Inter Miami vs Chicago Fire" tvg-logo="https://img.sofascore.com/api/v1/team/337602/image" group-title="MLS 🇺🇸",Inter Miami vs Chicago Fire - APPLE TV+ HD
+https://rdcstream.life/live/inter-miami-x-chicago-fire/index.m3u8?|referer=https://playerembed.xyz/
+
+#EXTINF:-1 tvg-id="50106" tvg-name="Charlotte vs Atlanta United" tvg-logo="https://img.sofascore.com/api/v1/team/404108/image" group-title="MLS 🇺🇸",Charlotte vs Atlanta United - FOX SPORTS FHD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50106" tvg-name="Charlotte vs Atlanta United" tvg-logo="https://img.sofascore.com/api/v1/team/404108/image" group-title="MLS 🇺🇸",Charlotte vs Atlanta United - FOX DEPORTES MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50107" tvg-name="New England vs Toronto" tvg-logo="https://img.sofascore.com/api/v1/team/2511/image" group-title="MLS 🇺🇸",New England vs Toronto - TSN SPORTS FHD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50108" tvg-name="Independiente vs Vasco" tvg-logo="https://img.sofascore.com/api/v1/team/6115/image" group-title="CON. Sudamericana",Independiente vs Vasco - beIN SPORTS MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50109" tvg-name="Lanús vs Cienciano" tvg-logo="https://img.sofascore.com/api/v1/team/3218/image" group-title="CON. Sudamericana",Lanús vs Cienciano - beIN SPORTS MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50110" tvg-name="Sporting Cristal vs RB Bragantino" tvg-logo="https://img.sofascore.com/api/v1/team/2302/image" group-title="CON. Sudamericana",Sporting Cristal vs RB Bragantino - beIN SPORTS MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50111" tvg-name="Torino vs Alcione Milano" tvg-logo="https://img.sofascore.com/api/v1/team/2696/image" group-title="Club Friendly",Torino vs Alcione Milano - SportzX Live
+https://live.vivo200.com/live/sd-1-4591081.m3u8?txSecret=ce31f8be6c8b56ee5099e1d46a33cb3a&txTime=6A60F6F1|referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-id="50111" tvg-name="Torino vs Alcione Milano" tvg-logo="https://img.sofascore.com/api/v1/team/2696/image" group-title="Club Friendly",Torino vs Alcione Milano - HD SERVER
+https://hls.streamhub.media/hls/thesport-api-cf89962de572ba5ddac3/master.m3u8
+
+#EXTINF:-1 tvg-id="50111" tvg-name="Torino vs Alcione Milano" tvg-logo="https://img.sofascore.com/api/v1/team/2696/image" group-title="Club Friendly",Torino vs Alcione Milano - SD SERVER
+http://193.47.62.49/hls/RRRRQ.m3u8?|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="50112" tvg-name="Nantes vs La Roche" tvg-logo="https://img.sofascore.com/api/v1/team/1647/image" group-title="Club Friendly",Nantes vs La Roche - SportzX Live
+https://live.vivo200.com/live/sd-1-4589237.m3u8?txSecret=11e6d0c2fe41248a03eff20b5886f4b9&txTime=6A60F74C|referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-id="50112" tvg-name="Nantes vs La Roche" tvg-logo="https://img.sofascore.com/api/v1/team/1647/image" group-title="Club Friendly",Nantes vs La Roche - SD SERVER
+http://193.47.62.49/hls/RRRR.m3u8?|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="50113" tvg-name="Stade Brestois vs Al-Wakrah" tvg-logo="https://img.sofascore.com/api/v1/team/1715/image" group-title="Club Friendly",Stade Brestois vs Al-Wakrah - SportzX Live
+https://live.vivo200.com/live/sd-1-4591082.m3u8?txSecret=50c78556f7ca9b97e3c213aae1fa07a2&txTime=6A60F7BA|referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-id="50113" tvg-name="Stade Brestois vs Al-Wakrah" tvg-logo="https://img.sofascore.com/api/v1/team/1715/image" group-title="Club Friendly",Stade Brestois vs Al-Wakrah - SD SERVER
+https://hls.streamhub.media/hls/thesport-api-1023c0b7b49d69961315/master.m3u8
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="TNT Sports",TNT Sports 1 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
