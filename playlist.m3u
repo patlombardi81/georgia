@@ -347,13 +347,13 @@ https://bd-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di
 
 #EXTINF:-1 tvg-id="50061" tvg-name="LPL" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Lanka Premier League",LPL - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=b5afc6d1006a956ada4fe4a4399e2c21:9319efc57e5eb5d32a12a7a66a4fb2ae
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rszozaxgyx/out/v1/7b88be9ba3fa4afda7f65bd4daae807e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50061" tvg-name="LPL" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Lanka Premier League",LPL - WILLOW - ALT MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b5afc6d1006a956ada4fe4a4399e2c21:9319efc57e5eb5d32a12a7a66a4fb2ae
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rszozaxgyx/out/v1/7b88be9ba3fa4afda7f65bd4daae807e/cenc.mpd
 
 #EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred MEN - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -429,9 +429,6 @@ https://edgestream1.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.onl
 #EXTINF:-1 tvg-id="50084" tvg-name="Guardians vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Minnesota Twins - SportzX Live
 https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50089" tvg-name="Nottingham Forest vs Blackburn Rovers" tvg-logo="https://img.sofascore.com/api/v1/team/14/image" group-title="Club Friendly",Nottingham Forest vs Blackburn Rovers - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-
 #EXTINF:-1 tvg-id="50090" tvg-name="Bologna vs Heidenheim" tvg-logo="https://img.sofascore.com/api/v1/team/2685/image" group-title="Club Friendly",Bologna vs Heidenheim - SportzX Live
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 
@@ -439,6 +436,30 @@ https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 
 #EXTINF:-1 tvg-id="50092" tvg-name="Tottenham Hotspur vs MK Dons" tvg-logo="https://img.sofascore.com/api/v1/team/33/image" group-title="Club Friendly",Tottenham Hotspur vs MK Dons - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50093" tvg-name="AZ Alkmaar vs KRC Genk" tvg-logo="https://img.sofascore.com/api/v1/team/2950/image" group-title="Club Friendly",AZ Alkmaar vs KRC Genk - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50094" tvg-name="Fiorentina vs Gubbio" tvg-logo="https://img.sofascore.com/api/v1/team/2693/image" group-title="Club Friendly",Fiorentina vs Gubbio - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50095" tvg-name="Sestao River vs Athletic Club" tvg-logo="https://img.sofascore.com/api/v1/team/24364/image" group-title="Club Friendly",Sestao River vs Athletic Club - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50096" tvg-name="Valencia vs CD Eldense" tvg-logo="https://img.sofascore.com/api/v1/team/2828/image" group-title="Club Friendly",Valencia vs CD Eldense - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50097" tvg-name="Wimbledon vs Norwich City" tvg-logo="https://img.sofascore.com/api/v1/team/23957/image" group-title="Club Friendly",Wimbledon vs Norwich City - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50098" tvg-name="Stevenage vs West Ham United" tvg-logo="https://img.sofascore.com/api/v1/team/133/image" group-title="Club Friendly",Stevenage vs West Ham United - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50099" tvg-name="Rangers vs Saint-Étienne" tvg-logo="https://img.sofascore.com/api/v1/team/2351/image" group-title="Club Friendly",Rangers vs Saint-Étienne - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50100" tvg-name="Gil Vicente vs FC Porto" tvg-logo="https://img.sofascore.com/api/v1/team/3010/image" group-title="Club Friendly",Gil Vicente vs FC Porto - SportzX Live
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="TNT Sports",TNT Sports 1 MPD
