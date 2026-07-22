@@ -288,17 +288,32 @@ https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_h
 #KODIPROP:inputstream.adaptive.license_key=e369d9ab101d4b60ba13c0384f503528:041e35e31381521b3398af5c6dd99414
 https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
 
+#EXTINF:-1 tvg-id="50032" tvg-name="Miami Marlins" tvg-logo="https://img.sofascore.com/api/v1/team/3655/image" group-title="MLB",Miami Marlins - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53644/load-playlist?|Referer=https://gooz.aapmains.net
+
 #EXTINF:-1 tvg-id="50032" tvg-name="Miami Marlins" tvg-logo="https://img.sofascore.com/api/v1/team/3655/image" group-title="MLB",Miami Marlins - SportzX LIVE
 https://edgestream1.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50033" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3628/image" group-title="MLB",Washington Nationals - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53647/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50033" tvg-name="Washington Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3628/image" group-title="MLB",Washington Nationals - SportzX Live
 https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
+#EXTINF:-1 tvg-id="50034" tvg-name="St. Louis Cardinals" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",St. Louis Cardinals - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53648/load-playlist?|Referer=https://gooz.aapmains.net
+
 #EXTINF:-1 tvg-id="50034" tvg-name="St. Louis Cardinals" tvg-logo="https://img.sofascore.com/api/v1/team/5929/image" group-title="MLB",St. Louis Cardinals - SportzX Live
 https://edgestream3.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
+#EXTINF:-1 tvg-id="50052" tvg-name="Arizona Diamondbacks" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Arizona Diamondbacks - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53650/load-playlist?|Referer=https://gooz.aapmains.net
+
 #EXTINF:-1 tvg-id="50052" tvg-name="Arizona Diamondbacks" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Arizona Diamondbacks - SportzX Live
 https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50053" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Seattle Mariners - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53653/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50053" tvg-name="Seattle Mariners" tvg-logo="https://img.sofascore.com/api/v1/team/3641/image" group-title="MLB",Seattle Mariners - SportzX Live
 https://edgestream3.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -343,10 +358,10 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_key=247001b170f0ef5b46c40276f6435a82:30a61d7051926d8b63ae81e8b1502567
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3r3pos4qag/out/v1/491e4ff7bf7a4098b5481b2c590271e0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377172/image" group-title="The Hundred",Hundred MEN - CRICKET FHD
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377177/image" group-title="The Hundred",Hundred MEN - CRICKET FHD
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
-#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377172/image" group-title="The Hundred",Hundred MEN - BBC SPORTS
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377177/image" group-title="The Hundred",Hundred MEN - BBC SPORTS
 https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8
 
 #EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred MEN - WILLOW - ALT MPD
@@ -354,13 +369,13 @@ https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8
 #KODIPROP:inputstream.adaptive.license_key=247001b170f0ef5b46c40276f6435a82:30a61d7051926d8b63ae81e8b1502567
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3r3pos4qag/out/v1/491e4ff7bf7a4098b5481b2c590271e0/cenc.mpd
 
-#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377172/image" group-title="The Hundred",Hundred MEN - TAPMAD FHD
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377177/image" group-title="The Hundred",Hundred MEN - TAPMAD FHD
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
 
 #EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="The Hundred",Hundred MEN - SKY SPORT
 https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 
-#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377172/image" group-title="The Hundred",Hundred MEN - LOW SERVER
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377177/image" group-title="The Hundred",Hundred MEN - LOW SERVER
 http://193.47.62.44/hls/NHHHQQq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred WOMEN - WILLOW FHD MPD
@@ -384,6 +399,18 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 
 #EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="The Hundred",Hundred WOMEN - SKY SPORT
 https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
+
+#EXTINF:-1 tvg-id="50073" tvg-name="Cruz Azul vs Club Puebla" tvg-logo="https://img.sofascore.com/api/v1/team/1947/image" group-title="Liga MX",Cruz Azul vs Club Puebla - TUDN HD
+https://chatgpt.hereisman.net/playlist/53621/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50073" tvg-name="Cruz Azul vs Club Puebla" tvg-logo="https://img.sofascore.com/api/v1/team/1947/image" group-title="Liga MX",Cruz Azul vs Club Puebla - TUDN SD
+https://pulltx.cqsycw.com/live/sd-6MwdpntpZvm84guRb4.m3u8?txSecret=5ec4cea84bb797b931d6baebf8a6f0bc&txTime=6A604388
+
+#EXTINF:-1 tvg-id="50074" tvg-name="CD Toluca vs Pumas UNAM" tvg-logo="https://img.sofascore.com/api/v1/team/1931/image" group-title="Liga MX",CD Toluca vs Pumas UNAM - TUDN MX HD
+https://chatgpt.hereisman.net/playlist/53622/load-playlist?|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="50074" tvg-name="CD Toluca vs Pumas UNAM" tvg-logo="https://img.sofascore.com/api/v1/team/1931/image" group-title="Liga MX",CD Toluca vs Pumas UNAM - SportzX Live
+https://pulltx.cqsycw.com/live/sd-6MwdpntpZpAgTFRg8N.m3u8?txSecret=3bbed632a59ba888e5c26f657cf094e1&txTime=6A5C6AB0
 
 #EXTINF:-1 tvg-id="50075" tvg-name="Guardians vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Minnesota Twins - SportzX Live
 https://edgestream2.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -415,59 +442,6 @@ https://edgestream1.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.onli
 #EXTINF:-1 tvg-id="50084" tvg-name="Texas Rangers vs White Sox" tvg-logo="https://img.sofascore.com/api/v1/team/3647/image" group-title="MLB",Texas Rangers vs White Sox - SportzX Live
 https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50085" tvg-name="Iberia 1999 vs Slovan Bratislava" tvg-logo="https://img.sofascore.com/api/v1/team/116312/image" group-title="UCL",Iberia 1999 vs Slovan Bratislava - SportzX Live
-https://live.vivo200.com/live/sd-1-4586108.m3u8?txSecret=0e374ed99d6a0297bdc63624d493ab01&txTime=6A5FAC06|referer=https://player.online909.com/
-
-#EXTINF:-1 tvg-id="50085" tvg-name="Iberia 1999 vs Slovan Bratislava" tvg-logo="https://img.sofascore.com/api/v1/team/116312/image" group-title="UCL",Iberia 1999 vs Slovan Bratislava - SD SERVER
-http://193.47.62.44/hls/NHHH.m3u8?|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50086" tvg-name="Fenerbahçe vs Górnik Zabrze" tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="UCL",Fenerbahçe vs Górnik Zabrze - SportzX Live
-https://live.vivo200.com/live/sd-1-4556528.m3u8?txSecret=a4b53d1e18346bd1f7131c979fbe6c8b&txTime=6A5FACA8|referer=https://player.online909.com/
-
-#EXTINF:-1 tvg-id="50086" tvg-name="Fenerbahçe vs Górnik Zabrze" tvg-logo="https://img.sofascore.com/api/v1/team/3052/image" group-title="UCL",Fenerbahçe vs Górnik Zabrze - SD SERVER
-http://193.47.62.50/hls/UAAA.m3u8?|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50087" tvg-name="FC Thun vs Dinamo Zagreb" tvg-logo="https://img.sofascore.com/api/v1/team/2454/image" group-title="UCL",FC Thun vs Dinamo Zagreb - SportzX Live
-https://live.vivo200.com/live/sd-1-4556532.m3u8?txSecret=3da262ed4be0155c76d7bc8e4866d778&txTime=6A5FAD03|referer=https://player.online909.com/
-
-#EXTINF:-1 tvg-id="50087" tvg-name="FC Thun vs Dinamo Zagreb" tvg-logo="https://img.sofascore.com/api/v1/team/2454/image" group-title="UCL",FC Thun vs Dinamo Zagreb - SD SERVER
-http://193.47.62.50/hls/UAAAQ.m3u8?|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50088" tvg-name="Sturm Graz vs Hearts" tvg-logo="https://img.sofascore.com/api/v1/team/2051/image" group-title="UCL",Sturm Graz vs Hearts - SportzX Live
-https://live.vivo200.com/live/sd-1-4556530.m3u8?txSecret=addc8f6e96189968278a3cd9f9fc5631&txTime=6A5FAD43|referer=https://player.online909.com/
-
-#EXTINF:-1 tvg-id="50088" tvg-name="Sturm Graz vs Hearts" tvg-logo="https://img.sofascore.com/api/v1/team/2051/image" group-title="UCL",Sturm Graz vs Hearts - SD SERVER
-http://193.47.62.53/hls/BAAA.m3u8?|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50089" tvg-name="Gillingham vs Millwall" tvg-logo="https://img.sofascore.com/api/v1/team/20/image" group-title="Club Friendly",Gillingham vs Millwall - SportzX Live
-https://live.vivo200.com/live/sd-1-4591032.m3u8?txSecret=1adcc3c48de22b9a8357916197137a8c&txTime=6A5FADF1|referer=https://player.online909.com/
-
-#EXTINF:-1 tvg-id="50089" tvg-name="Gillingham vs Millwall" tvg-logo="https://img.sofascore.com/api/v1/team/20/image" group-title="Club Friendly",Gillingham vs Millwall - SD SERVER
-http://193.47.62.50/hls/DAAAQQQQQ.m3u8?|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50090" tvg-name="Atlético Mineiro vs Bahia" tvg-logo="https://img.sofascore.com/api/v1/team/1977/image" group-title="Brasileirão",Atlético Mineiro vs Bahia - PREMIERER BR MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-
-#EXTINF:-1 tvg-id="50090" tvg-name="Atlético Mineiro vs Bahia" tvg-logo="https://img.sofascore.com/api/v1/team/1977/image" group-title="Brasileirão",Atlético Mineiro vs Bahia - SporTV BR FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-
-#EXTINF:-1 tvg-id="50090" tvg-name="Atlético Mineiro vs Bahia" tvg-logo="https://img.sofascore.com/api/v1/team/1977/image" group-title="Brasileirão",Atlético Mineiro vs Bahia - SporTV BR HD
-https://rdcstream.life/live/sportv/index.m3u8?|referer=https://playerembed.xyz/
-
-#EXTINF:-1 tvg-id="50091" tvg-name="Nacional vs Tigre" tvg-logo="https://img.sofascore.com/api/v1/team/3230/image" group-title="CON. Sudamericana",Nacional vs Tigre - beIN SPORTS FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="50091" tvg-name="Nacional vs Tigre" tvg-logo="https://img.sofascore.com/api/v1/team/3230/image" group-title="CON. Sudamericana",Nacional vs Tigre - SportDigital Fussball MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
 #EXTINF:-1 tvg-id="50092" tvg-name="Universidad vs Santos" tvg-logo="https://img.sofascore.com/api/v1/team/249952/image" group-title="CON. Sudamericana",Universidad vs Santos - beIN SPORTS FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -477,9 +451,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="50093" tvg-name="Walsall vs Aston Villa" tvg-logo="https://img.sofascore.com/api/v1/team/26/image" group-title="Club Friendly",Walsall vs Aston Villa - SD SERVER
-http://193.47.62.42/hls/gtgtgt.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="TNT Sports",TNT Sports 1 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
