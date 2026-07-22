@@ -390,28 +390,28 @@ https://bd-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-
 
 #EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred MEN - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=247001b170f0ef5b46c40276f6435a82:30a61d7051926d8b63ae81e8b1502567
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3r3pos4qag/out/v1/491e4ff7bf7a4098b5481b2c590271e0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=30e08137631c9f56148d9cace6e2dad1:4c441dc018335519dcda95746877e1fd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/drgaguvdtm/out/v1/5c1dd02ca307415d8ba932342a5a268e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377177/image" group-title="The Hundred",Hundred MEN - CRICKET FHD
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
-#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377177/image" group-title="The Hundred",Hundred MEN - BBC SPORTS
-https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8
-
 #EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred MEN - WILLOW - ALT MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=247001b170f0ef5b46c40276f6435a82:30a61d7051926d8b63ae81e8b1502567
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3r3pos4qag/out/v1/491e4ff7bf7a4098b5481b2c590271e0/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=30e08137631c9f56148d9cace6e2dad1:4c441dc018335519dcda95746877e1fd
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/drgaguvdtm/out/v1/5c1dd02ca307415d8ba932342a5a268e/cenc.mpd
 
 #EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377177/image" group-title="The Hundred",Hundred MEN - TAPMAD FHD
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
 
-#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="The Hundred",Hundred MEN - SKY SPORT
-https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377177/image" group-title="The Hundred",Hundred MEN - HD SERVER
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377177/image" group-title="The Hundred",Hundred MEN - LOW SERVER
 http://193.47.62.44/hls/NHHHQQq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="The Hundred",Hundred MEN - SKY SPORT
+https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 
 #EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred WOMEN - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -455,11 +455,17 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="50075" tvg-name="Red Sox vs Baltimore Orioles" tvg-logo="https://img.sofascore.com/api/v1/team/3646/image" group-title="MLB",Red Sox vs Baltimore Orioles - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53656/load-playlist?|Referer=https://gooz.aapmains.net
+
 #EXTINF:-1 tvg-id="50075" tvg-name="Red Sox vs Baltimore Orioles" tvg-logo="https://img.sofascore.com/api/v1/team/3646/image" group-title="MLB",Red Sox vs Baltimore Orioles - SportzX Live
-https://edgestream2.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="50076" tvg-name="Yankees vs Pittsburgh Pirates" tvg-logo="https://img.sofascore.com/api/v1/team/3654/image" group-title="MLB",Yankees vs Pittsburgh Pirates - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53654/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50076" tvg-name="Yankees vs Pittsburgh Pirates" tvg-logo="https://img.sofascore.com/api/v1/team/3654/image" group-title="MLB",Yankees vs Pittsburgh Pirates - SportzX Live
-https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50077" tvg-name="Kansas City Royals vs Giants" tvg-logo="https://img.sofascore.com/api/v1/team/3651/image" group-title="MLB",Kansas City Royals vs Giants - SportzX Live
 https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -471,7 +477,7 @@ https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.
 https://edgestream1.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50080" tvg-name="Colorado Rockies vs Nationals" tvg-logo="https://img.sofascore.com/api/v1/team/3628/image" group-title="MLB",Colorado Rockies vs Nationals - SportzX Live
-https://edgestream3.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream1.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50081" tvg-name="Diamondbacks vs Athletics" tvg-logo="https://img.sofascore.com/api/v1/team/3640/image" group-title="MLB",Diamondbacks vs Athletics - SportzX Live
 https://edgestream2.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -481,15 +487,6 @@ https://edgestream1.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.onl
 
 #EXTINF:-1 tvg-id="50084" tvg-name="Guardians vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Minnesota Twins - SportzX Live
 https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50090" tvg-name="Bologna vs Heidenheim" tvg-logo="https://img.sofascore.com/api/v1/team/2685/image" group-title="Club Friendly",Bologna vs Heidenheim - SportzX Live
-https://pul-tenm.gkykp.com/live/sd-1-4591073.m3u8?txSecret=3068456055b8baa9d9b0b9ebb4942996&txTime=6A621758
-
-#EXTINF:-1 tvg-id="50090" tvg-name="Bologna vs Heidenheim" tvg-logo="https://img.sofascore.com/api/v1/team/2685/image" group-title="Club Friendly",Bologna vs Heidenheim - SD SERVER
-http://193.47.62.41/hls/ADFFFQ.m3u8?|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50091" tvg-name="Kharkiv vs Schalke 04" tvg-logo="https://img.sofascore.com/api/v1/team/266889/image" group-title="Club Friendly",Kharkiv vs Schalke 04 - SD SERVER
-http://193.47.62.41/hls/ADFFFQQ.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50092" tvg-name="Tottenham Hotspur vs MK Dons" tvg-logo="https://img.sofascore.com/api/v1/team/33/image" group-title="Club Friendly",Tottenham Hotspur vs MK Dons - SportzX Live
 https://live.vivo200.com/live/sd-1-4591078.m3u8?txSecret=5fdf116858c7c8833f054a78871bd3a9&txTime=6A60F69D|referer=https://player.online909.com/
@@ -502,9 +499,6 @@ http://193.47.62.49/hls/EEEEQ.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50093" tvg-name="AZ Alkmaar vs KRC Genk" tvg-logo="https://img.sofascore.com/api/v1/team/2950/image" group-title="Club Friendly",AZ Alkmaar vs KRC Genk - SportzX Live
 https://live.vivo200.com/live/sd-1-4589244.m3u8?txSecret=ddf37bc0771305f5112c65af149e1770&txTime=6A61008C|referer=https://player.online909.com/
-
-#EXTINF:-1 tvg-id="50094" tvg-name="Fiorentina vs Gubbio" tvg-logo="https://img.sofascore.com/api/v1/team/2693/image" group-title="Club Friendly",Fiorentina vs Gubbio - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
 
 #EXTINF:-1 tvg-id="50095" tvg-name="Sestao River vs Athletic Club" tvg-logo="https://img.sofascore.com/api/v1/team/24364/image" group-title="Club Friendly",Sestao River vs Athletic Club - SportzX Live
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
