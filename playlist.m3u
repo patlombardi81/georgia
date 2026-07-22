@@ -429,11 +429,11 @@ https://edgestream1.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.onl
 #EXTINF:-1 tvg-id="50084" tvg-name="Guardians vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Minnesota Twins - SportzX Live
 https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50090" tvg-name="Bologna vs Heidenheim" tvg-logo="https://img.sofascore.com/api/v1/team/2685/image" group-title="Club Friendly",Bologna vs Heidenheim - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="50090" tvg-name="Bologna vs Heidenheim" tvg-logo="https://img.sofascore.com/api/v1/team/2685/image" group-title="Club Friendly",Bologna vs Heidenheim - SD SERVER
+http://193.47.62.41/hls/ADFFFQ.m3u8?|referer=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-id="50091" tvg-name="Kharkiv vs Schalke 04" tvg-logo="https://img.sofascore.com/api/v1/team/266889/image" group-title="Club Friendly",Kharkiv vs Schalke 04 - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="50091" tvg-name="Kharkiv vs Schalke 04" tvg-logo="https://img.sofascore.com/api/v1/team/266889/image" group-title="Club Friendly",Kharkiv vs Schalke 04 - SD SERVER
+http://193.47.62.41/hls/ADFFFQ.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50092" tvg-name="Tottenham Hotspur vs MK Dons" tvg-logo="https://img.sofascore.com/api/v1/team/33/image" group-title="Club Friendly",Tottenham Hotspur vs MK Dons - SportzX Live
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
