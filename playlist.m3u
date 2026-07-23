@@ -307,28 +307,25 @@ https://bd-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-
 
 #EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred MEN - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30e08137631c9f56148d9cace6e2dad1:4c441dc018335519dcda95746877e1fd
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/drgaguvdtm/out/v1/5c1dd02ca307415d8ba932342a5a268e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=53be1157d919b0313e270d1ed4186d87:44f686ac116d42983895204b978fefab
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r9ipx2gmey/out/v1/72197084a22d4b8888925caa8b2a5129/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377175/image" group-title="The Hundred",Hundred MEN - CRICKET FHD
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
 #EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred MEN - WILLOW - ALT MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30e08137631c9f56148d9cace6e2dad1:4c441dc018335519dcda95746877e1fd
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/drgaguvdtm/out/v1/5c1dd02ca307415d8ba932342a5a268e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=53be1157d919b0313e270d1ed4186d87:44f686ac116d42983895204b978fefab
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/r9ipx2gmey/out/v1/72197084a22d4b8888925caa8b2a5129/cenc.mpd
 
-#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377175/image" group-title="The Hundred",Hundred MEN - TAPMAD FHD
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377175/image" group-title="The Hundred",Hundred MEN - TAPMAD - FHD
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
 
-#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377175/image" group-title="The Hundred",Hundred MEN - HD SERVER
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377175/image" group-title="The Hundred",Hundred MEN - LOW SERVER
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 
-#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377175/image" group-title="The Hundred",Hundred MEN - LOW SERVER
-http://193.47.62.44/hls/NHHHQQq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="The Hundred",Hundred MEN - SKY SPORT
-https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
+#EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://img.sofascore.com/api/v1/team/377175/image" group-title="The Hundred",Hundred MEN - SD SERVER
+http://193.47.62.43/hls/vaaaa.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred WOMEN - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -362,25 +359,19 @@ https://chatgpt.hereisman.net/playlist/53715/load-playlist?&.m3u8|Referer=https:
 https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50076" tvg-name="Guardians vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Minnesota Twins - SportzX MLB
-https://chatgpt.hereisman.net/playlist/53654/load-playlist?|Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/53717/load-playlist?|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="50076" tvg-name="Guardians vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Minnesota Twins - SportzX Live
-https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="50077" tvg-name="Blue Jays vs Tampa Bay Rays" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Blue Jays vs Tampa Bay Rays - SportzX MLB
-https://chatgpt.hereisman.net/playlist/53660/load-playlist?|Referer=https://gooz.aapmains.net
+https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50077" tvg-name="Blue Jays vs Tampa Bay Rays" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Blue Jays vs Tampa Bay Rays - SportzX Live
 https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50078" tvg-name="Cardinals vs Diamondbacks" tvg-logo="https://img.sofascore.com/api/v1/team/3632/image" group-title="MLB",Cardinals vs Diamondbacks - SportzX MLB
-https://chatgpt.hereisman.net/playlist/53658/load-playlist?|Referer=https://gooz.aapmains.net
-
 #EXTINF:-1 tvg-id="50078" tvg-name="Cardinals vs Diamondbacks" tvg-logo="https://img.sofascore.com/api/v1/team/3632/image" group-title="MLB",Cardinals vs Diamondbacks - SportzX Live
-https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream1.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50079" tvg-name="Detroit Tigers vs Royals" tvg-logo="https://img.sofascore.com/api/v1/team/3648/image" group-title="MLB",Detroit Tigers vs Royals - SportzX Live
-https://edgestream3.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream3.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
 #EXTINF:-1 tvg-id="50085" tvg-name="Global Super League" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Global Super League - WILLOW - FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -409,16 +400,28 @@ https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-
 https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="50088" tvg-name="Beşiktaş JK vs Midtjylland" tvg-logo="https://img.sofascore.com/api/v1/team/3050/image" group-title="UEFA Europa",Beşiktaş JK vs Midtjylland - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://live.vivo200.com/live/sd-1-4556483.m3u8?txSecret=b92a14efd5bd7999dd4b10860ec2d2ff&txTime=6A6268F0|referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-id="50088" tvg-name="Beşiktaş JK vs Midtjylland" tvg-logo="https://img.sofascore.com/api/v1/team/3050/image" group-title="UEFA Europa",Beşiktaş JK vs Midtjylland - SD SERVER
+http://193.47.62.54/hls/HMMMAAQQQQQ.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50089" tvg-name="St. Gallen vs Benfica" tvg-logo="https://img.sofascore.com/api/v1/team/2442/image" group-title="UEFA Europa",St. Gallen vs Benfica - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://live.vivo200.com/live/sd-1-4556487.m3u8?txSecret=5540ba9291f4a3041add6decb16ee37d&txTime=6A626911|referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-id="50089" tvg-name="St. Gallen vs Benfica" tvg-logo="https://img.sofascore.com/api/v1/team/2442/image" group-title="UEFA Europa",St. Gallen vs Benfica - SD SERVER
+http://193.47.62.54/hls/IRRR.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50090" tvg-name="Twente vs Ferencváros" tvg-logo="https://img.sofascore.com/api/v1/team/2955/image" group-title="UEFA Europa",Twente vs Ferencváros - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://live.vivo200.com/live/sd-1-4589354.m3u8?txSecret=d5ecaacc4ee5ef90e4a9b94624491acc&txTime=6A62693C|referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Twente vs Ferencváros" tvg-logo="https://img.sofascore.com/api/v1/team/2955/image" group-title="UEFA Europa",Twente vs Ferencváros - SD SERVER
+http://193.47.62.54/hls/IRRRA.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50091" tvg-name="Vojvodina vs AFC Ajax" tvg-logo="https://img.sofascore.com/api/v1/team/5150/image" group-title="UEFA Conference",Vojvodina vs AFC Ajax - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://live.vivo200.com/live/sd-1-4590890.m3u8?txSecret=54a37406a25d9ede063e5e365348f975&txTime=6A626975|referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-id="50091" tvg-name="Vojvodina vs AFC Ajax" tvg-logo="https://img.sofascore.com/api/v1/team/5150/image" group-title="UEFA Conference",Vojvodina vs AFC Ajax - SD SERVER
+http://193.47.62.54/hls/HMMMAAQQQQ.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50092" tvg-name="Córdoba vs Sevilla" tvg-logo="https://img.sofascore.com/api/v1/team/2850/image" group-title="Club Friendly",Córdoba vs Sevilla - SportzX Live
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
@@ -448,11 +451,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50098" tvg-name="FC Malisheva vs Hibernian" tvg-logo="https://img.sofascore.com/api/v1/team/325494/image" group-title="UEFA Conference",FC Malisheva vs Hibernian - SportzX Live
-https://live.vivo200.com/live/sd-1-4590886.m3u8?txSecret=b72ba63bda298212f6cbd1d73dee7287&txTime=6A6237FA|referer=https://player.online909.com/
-
-#EXTINF:-1 tvg-id="50098" tvg-name="FC Malisheva vs Hibernian" tvg-logo="https://img.sofascore.com/api/v1/team/325494/image" group-title="UEFA Conference",FC Malisheva vs Hibernian - SD SERVER
-http://193.47.62.43/hls/vaaaaQ.m3u8?|referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-id="50099" tvg-name="Dynamo Kyiv vs PAOK" tvg-logo="https://img.sofascore.com/api/v1/team/3305/image" group-title="UEFA Europa",Dynamo Kyiv vs PAOK - SportzX Live
+https://live.vivo200.com/live/sd-1-4589353.m3u8?txSecret=e3cc75677cd7fd8d0f56e0d6974ffc91&txTime=6A625690|referer=https://player.online909.com/
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="TNT Sports",TNT Sports 1 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
