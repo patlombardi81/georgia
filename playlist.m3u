@@ -364,6 +364,9 @@ https://chatgpt.hereisman.net/playlist/53717/load-playlist?|Referer=https://gooz
 #EXTINF:-1 tvg-id="50076" tvg-name="Guardians vs Minnesota Twins" tvg-logo="https://img.sofascore.com/api/v1/team/3650/image" group-title="MLB",Guardians vs Minnesota Twins - SportzX Live
 https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
+#EXTINF:-1 tvg-id="50077" tvg-name="Blue Jays vs Tampa Bay Rays" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Blue Jays vs Tampa Bay Rays - SportzX MLB
+https://chatgpt.hereisman.net/playlist/53719/load-playlist?|Referer=https://gooz.aapmains.net
+
 #EXTINF:-1 tvg-id="50077" tvg-name="Blue Jays vs Tampa Bay Rays" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="MLB",Blue Jays vs Tampa Bay Rays - SportzX Live
 https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
@@ -424,7 +427,7 @@ https://live.vivo200.com/live/sd-1-4590890.m3u8?txSecret=54a37406a25d9ede063e5e3
 http://193.47.62.54/hls/HMMMAAQQQQ.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50092" tvg-name="Córdoba vs Sevilla" tvg-logo="https://img.sofascore.com/api/v1/team/2850/image" group-title="Club Friendly",Córdoba vs Sevilla - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://live.vivo200.com/live/sd-1-4591127.m3u8?txSecret=caa8c54a54e66f9108cb050ca86b8370&txTime=6A6274A9|referer=https://player.online909.com/
 
 #EXTINF:-1 tvg-id="50093" tvg-name="Botafogo vs Vitória" tvg-logo="https://img.sofascore.com/api/v1/team/1958/image" group-title="Brasileirão",Botafogo vs Vitória - PREMIERER BR MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
