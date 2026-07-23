@@ -294,17 +294,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50059" tvg-name="Sri Lanka W vs Pakistan W" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Sri Lanka W vs Pakistan W - WILLOW FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50059" tvg-name="Sri Lanka W vs Pakistan W" tvg-logo="https://img.sofascore.com/api/v1/team/187806/image" group-title="Cricket",Sri Lanka W vs Pakistan W - TAPMAD - FHD
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
-
-#EXTINF:-1 tvg-id="50059" tvg-name="Sri Lanka W vs Pakistan W" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Sri Lanka W vs Pakistan W - WILLOW - SD
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-
 #EXTINF:-1 tvg-id="50060" tvg-name="West Indies vs Pakistan" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",West Indies vs Pakistan - FANCODE FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
@@ -329,24 +318,19 @@ https://bd-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di
 
 #EXTINF:-1 tvg-id="50061" tvg-name="LPL" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Lanka Premier League",LPL - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f567bab672bd15dcbea0c8f29365ca1:9101126d4d41bca6ecc906e47d8fd143
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="50061" tvg-name="LPL" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Lanka Premier League",LPL - FANCODE - FHD MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.license_key=fe6dc83d53e08c5626b6aec2bb4a3afe:da58f6323d6388054bd316890f729f72
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jpjzsonseg/out/v1/26eeb47cccd24e2d8e1975655a1f04e9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50061" tvg-name="LPL" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Lanka Premier League",LPL - WILLOW - ALT MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f567bab672bd15dcbea0c8f29365ca1:9101126d4d41bca6ecc906e47d8fd143
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fe6dc83d53e08c5626b6aec2bb4a3afe:da58f6323d6388054bd316890f729f72
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jpjzsonseg/out/v1/26eeb47cccd24e2d8e1975655a1f04e9/cenc.mpd
 
 #EXTINF:-1 tvg-id="50061" tvg-name="LPL" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Lanka Premier League",LPL - FANCODE - IN
-https://in-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8
+https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="50061" tvg-name="LPL" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Lanka Premier League",LPL - FANCODE - BD
-https://bd-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred MEN - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -375,25 +359,28 @@ https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 
 #EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred WOMEN - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8787005b2c501603a117e26044f93e50:e57ce8dcc0158ef1002ab5bba0f25d14
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvy4bjqqtx/out/v1/a8eb10fe4a4445a39c4aada4b042fb88/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=edd5fb967a4e6c38a619569dcd317c5a:3d8bb28d3a01f6e8f377aca162619a47
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6okuxrru64/out/v1/2d2cf5a09acc49d68d844903696062b8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="The Hundred",Hundred WOMEN - CRICKET FHD
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
-#EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred",Hundred WOMEN - BBC SPORTS
-https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8
+#EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred WOMEN - WILLOW - ALT MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edd5fb967a4e6c38a619569dcd317c5a:3d8bb28d3a01f6e8f377aca162619a47
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6okuxrru64/out/v1/2d2cf5a09acc49d68d844903696062b8/cenc.mpd
+
+#EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="The Hundred",Hundred WOMEN - SKY SPORT
+https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 
 #EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred",Hundred WOMEN - TAPMAD FHD
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
 
-#EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred WOMEN - WILLOW - ALT MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8787005b2c501603a117e26044f93e50:e57ce8dcc0158ef1002ab5bba0f25d14
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvy4bjqqtx/out/v1/a8eb10fe4a4445a39c4aada4b042fb88/cenc.mpd
+#EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred",Hundred WOMEN - SonyLiv
+https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-V3/master.m3u8?hdnea=exp=1784756002~acl=/*~id=01d7cb8efe80bd31ab0c0ae6a6d3175b-1784712737570-180820105164192310~hmac=aabe24ba3b5f5ca6a2e1a7eb7337660c8811f71ad4562addd0f9ffdf1fbf3ab9
 
-#EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="The Hundred",Hundred WOMEN - SKY SPORT
-https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
+#EXTINF:-1 tvg-id="50063" tvg-name="Hundred WOMEN" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred",Hundred WOMEN - LOW SERVER
+http://193.47.62.43/hls/vaaaa.m3u8|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-id="50075" tvg-name="Atlanta Braves vs Padres" tvg-logo="https://img.sofascore.com/api/v1/team/3656/image" group-title="MLB",Atlanta Braves vs Padres - SportzX Live
 https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
@@ -419,11 +406,15 @@ https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.
 #EXTINF:-1 tvg-id="50079" tvg-name="Detroit Tigers vs Royals" tvg-logo="https://img.sofascore.com/api/v1/team/3648/image" group-title="MLB",Detroit Tigers vs Royals - SportzX Live
 https://edgestream3.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
-#EXTINF:-1 tvg-id="50085" tvg-name="Adelaide Crows vs Collingwood" tvg-logo="https://img.sofascore.com/api/v1/team/4442/image" group-title="AFL",Adelaide Crows vs Collingwood - TNT MAX HD
-https://tmaxapp.site/8wirwjs76erftg/tntsports3.m3u8
+#EXTINF:-1 tvg-id="50085" tvg-name="Global Super League" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Global Super League - WILLOW - FHD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89191e6bfbd29dee4c593cb15c4925c3:ebcd78506f203fd0b3cf422d4a5ba0d4
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oakh3hb4vk/out/v1/a8493a8887bd47c8a40cea87ceef414f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="50085" tvg-name="Adelaide Crows vs Collingwood" tvg-logo="https://img.sofascore.com/api/v1/team/4442/image" group-title="AFL",Adelaide Crows vs Collingwood - SportzX Live
-https://tmaxapp.site/8wirwjs76erftg/skysport5nz.m3u8
+#EXTINF:-1 tvg-id="50085" tvg-name="Global Super League" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Cricket",Global Super League - WILLOW - ALT MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89191e6bfbd29dee4c593cb15c4925c3:ebcd78506f203fd0b3cf422d4a5ba0d4
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oakh3hb4vk/out/v1/a8493a8887bd47c8a40cea87ceef414f/cenc.mpd
 
 #EXTINF:-1 tvg-id="50086" tvg-name="Parramatta vs Penrith Panthers" tvg-logo="https://img.sofascore.com/api/v1/team/4261/image" group-title="NRL Rugby",Parramatta vs Penrith Panthers - FOX SPORTS MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -440,6 +431,52 @@ https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-
 
 #EXTINF:-1 tvg-id="50087" tvg-name="CWC LEAGUE" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",CWC LEAGUE - FANCODE - BD
 https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="50088" tvg-name="Beşiktaş JK vs Midtjylland" tvg-logo="https://img.sofascore.com/api/v1/team/3050/image" group-title="UEFA Europa",Beşiktaş JK vs Midtjylland - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50089" tvg-name="St. Gallen vs Benfica" tvg-logo="https://img.sofascore.com/api/v1/team/2442/image" group-title="UEFA Europa",St. Gallen vs Benfica - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50090" tvg-name="Twente vs Ferencváros" tvg-logo="https://img.sofascore.com/api/v1/team/2955/image" group-title="UEFA Europa",Twente vs Ferencváros - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50091" tvg-name="Vojvodina vs AFC Ajax" tvg-logo="https://img.sofascore.com/api/v1/team/5150/image" group-title="UEFA Conference",Vojvodina vs AFC Ajax - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50092" tvg-name="Córdoba vs Sevilla" tvg-logo="https://img.sofascore.com/api/v1/team/2850/image" group-title="Club Friendly",Córdoba vs Sevilla - SportzX Live
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="50093" tvg-name="Botafogo vs Vitória" tvg-logo="https://img.sofascore.com/api/v1/team/1958/image" group-title="Brasileirão",Botafogo vs Vitória - PREMIERER BR MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50094" tvg-name="Corinthians vs Remo" tvg-logo="https://img.sofascore.com/api/v1/team/1957/image" group-title="Brasileirão",Corinthians vs Remo - PREMIERER BR MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50095" tvg-name="Bolívar vs Grêmio" tvg-logo="https://img.sofascore.com/api/v1/team/7059/image" group-title="CON. Sudamericana",Bolívar vs Grêmio - beIN SPORTS MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50096" tvg-name="Santa Fe vs Caracas F.C." tvg-logo="https://img.sofascore.com/api/v1/team/6116/image" group-title="CON. Sudamericana",Santa Fe vs Caracas F.C. - beIN SPORTS MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50097" tvg-name="Boca Juniors vs O'Higgins" tvg-logo="https://img.sofascore.com/api/v1/team/3202/image" group-title="CON. Sudamericana",Boca Juniors vs O'Higgins - beIN SPORTS MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50098" tvg-name="FC Malisheva vs Hibernian" tvg-logo="https://img.sofascore.com/api/v1/team/325494/image" group-title="UEFA Conference",FC Malisheva vs Hibernian - SportzX Live
+https://live.vivo200.com/live/sd-1-4590886.m3u8?txSecret=b72ba63bda298212f6cbd1d73dee7287&txTime=6A6237FA|referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-id="50098" tvg-name="FC Malisheva vs Hibernian" tvg-logo="https://img.sofascore.com/api/v1/team/325494/image" group-title="UEFA Conference",FC Malisheva vs Hibernian - SD SERVER
+http://193.47.62.43/hls/vaaaaQ.m3u8?|referer=http://www.fawanews.sc/
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="TNT Sports",TNT Sports 1 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
