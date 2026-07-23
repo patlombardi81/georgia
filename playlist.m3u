@@ -333,8 +333,8 @@ https://bd-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di
 
 #EXTINF:-1 tvg-id="50061" tvg-name="LPL" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Lanka Premier League",LPL - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08e857788244fe19e0ebf8afe19a5baf:07829ed6a8151c4c363713d38687efc8
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bkvy8namph/out/v1/408fe9c1ee2048d98bd629a60b55f8a9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=9f567bab672bd15dcbea0c8f29365ca1:9101126d4d41bca6ecc906e47d8fd143
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="50061" tvg-name="LPL" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Lanka Premier League",LPL - FANCODE - FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -343,8 +343,8 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/
 
 #EXTINF:-1 tvg-id="50061" tvg-name="LPL" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Lanka Premier League",LPL - WILLOW - ALT MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08e857788244fe19e0ebf8afe19a5baf:07829ed6a8151c4c363713d38687efc8
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bkvy8namph/out/v1/408fe9c1ee2048d98bd629a60b55f8a9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9f567bab672bd15dcbea0c8f29365ca1:9101126d4d41bca6ecc906e47d8fd143
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd
 
 #EXTINF:-1 tvg-id="50061" tvg-name="LPL" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Lanka Premier League",LPL - FANCODE - SD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -352,10 +352,10 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 
 #EXTINF:-1 tvg-id="50061" tvg-name="LPL" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Lanka Premier League",LPL - FANCODE - IN
-https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8
+https://in-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="50061" tvg-name="LPL" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Lanka Premier League",LPL - FANCODE - BD
-https://bd-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8
+https://bd-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="50062" tvg-name="Hundred MEN" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="The Hundred",Hundred MEN - WILLOW FHD MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -428,13 +428,27 @@ https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.
 #EXTINF:-1 tvg-id="50079" tvg-name="Detroit Tigers vs Royals" tvg-logo="https://img.sofascore.com/api/v1/team/3648/image" group-title="MLB",Detroit Tigers vs Royals - SportzX Live
 https://edgestream3.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 
+#EXTINF:-1 tvg-id="50085" tvg-name="Adelaide Crows vs Collingwood" tvg-logo="https://img.sofascore.com/api/v1/team/4442/image" group-title="AFL",Adelaide Crows vs Collingwood - TNT MAX HD
+https://tmaxapp.site/8wirwjs76erftg/tntsports3.m3u8
+
 #EXTINF:-1 tvg-id="50085" tvg-name="Adelaide Crows vs Collingwood" tvg-logo="https://img.sofascore.com/api/v1/team/4442/image" group-title="AFL",Adelaide Crows vs Collingwood - SportzX Live
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://tmaxapp.site/8wirwjs76erftg/skysport5nz.m3u8
 
 #EXTINF:-1 tvg-id="50086" tvg-name="Parramatta vs Penrith Panthers" tvg-logo="https://img.sofascore.com/api/v1/team/4261/image" group-title="NRL Rugby",Parramatta vs Penrith Panthers - FOX SPORTS MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50087" tvg-name="CWC LEAGUE" tvg-logo="https://img.sofascore.com/api/v1/team/187840/image" group-title="Cricket",CWC LEAGUE - ICC TV - FHD MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1784825128~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=667d560ae33471b8b1896f1a4a685dc1f39586966624cc87fe905b1315de7658/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="50087" tvg-name="CWC LEAGUE" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",CWC LEAGUE - FANCODE - IN
+https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="50087" tvg-name="CWC LEAGUE" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Cricket",CWC LEAGUE - FANCODE - BD
+https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="TNT Sports",TNT Sports 1 MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
